@@ -1,6 +1,8 @@
 # U.S. Rural Road Fatality County Panel and Atlas
 
-**Status:** v1.0.0, verified by the author (release pending) | **Maintainer:** Emmanuel Oti Nani, ORCID [0009-0009-4175-8962](https://orcid.org/0009-0009-4175-8962) | **License:** code MIT, data CC BY 4.0 | **DOI:** pending (assigned at the first Zenodo release)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23547650.svg)](https://doi.org/10.5281/zenodo.23547650)
+
+**Status:** Released v1.0.0 (2026-10-21) | **Maintainer:** Emmanuel Oti Nani, ORCID [0009-0009-4175-8962](https://orcid.org/0009-0009-4175-8962) | **License:** code MIT, data CC BY 4.0 | **DOI:** [10.5281/zenodo.23547650](https://doi.org/10.5281/zenodo.23547650) (all versions: [10.5281/zenodo.23547649](https://doi.org/10.5281/zenodo.23547649))
 
 **In plain terms:** This is a free table of road deaths for every U.S. county, every year from 2015 to 2024. It splits deaths into rural and urban, by type of road and road owner, and by who died (driver, passenger, person walking, person on a bicycle). It adds population and public road miles. Small counties can use it as ready-made evidence for safety planning and grant applications, and researchers can use it to compare counties over a full decade.
 
@@ -73,7 +75,7 @@ See [docs/LIMITATIONS.md](docs/LIMITATIONS.md) before using or citing anything h
 
 ## Citation
 
-Emmanuel Oti Nani (2026). *U.S. Rural Road Fatality County Panel, 2015-2024* (Version 1.0.0) [Data set]. Zenodo. DOI pending (assigned at the first Zenodo release). See `CITATION.cff`.
+Emmanuel Oti Nani (2026). *U.S. Rural Road Fatality County Panel, 2015-2024* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23547650. See `CITATION.cff`.
 
 ## Use of AI tools
 

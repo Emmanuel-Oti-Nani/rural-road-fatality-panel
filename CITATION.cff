@@ -11,6 +11,11 @@ authors:
     orcid: "https://orcid.org/0009-0009-4175-8962"
     affiliation: "Independent Researcher, Springfield, Missouri, USA"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23547650"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23547649"
+    description: "Concept DOI: all versions, resolves to the latest"
 repository-code: "https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel"
 url: "https://emmanuel-oti-nani.github.io/rural-road-fatality-panel/"
 keywords:

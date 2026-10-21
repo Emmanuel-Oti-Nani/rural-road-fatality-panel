@@ -9,6 +9,6 @@
   "keywords": ["FARS", "crosswalk", "Census places", "county subdivisions", "traffic fatalities", "geocoding"],
   "related_identifiers": [
     {"identifier": "https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel", "relation": "isSupplementTo", "scheme": "url"},
-    {"identifier": "10.5281/zenodo.PANEL_DOI", "relation": "isPartOf", "scheme": "doi"}
+    {"identifier": "10.5281/zenodo.23547650", "relation": "isPartOf", "scheme": "doi"}
   ]
 }

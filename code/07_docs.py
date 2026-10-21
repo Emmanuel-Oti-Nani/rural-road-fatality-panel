@@ -110,7 +110,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--final", action="store_true")
     a = ap.parse_args()
-    status = f"v{VERSION}, verified by the author (release pending)" if a.final else f"DRAFT v{VERSION} (not yet verified by the author; do not cite)"
+    status = f"Released v{VERSION} (2026-10-21)" if a.final else f"DRAFT v{VERSION} (not yet verified by the author; do not cite)"
     P = os.path.join(ROOT, "data", "processed")
     w = pd.read_csv(os.path.join(P, "panel_county_year_2015_2024.csv"), nrows=5)
     cb = codebook(list(w.columns))
@@ -157,7 +157,9 @@ def main():
 
     readme = f"""# U.S. Rural Road Fatality County Panel and Atlas
 
-**Status:** {status} | **Maintainer:** {A['name']}, ORCID [{A['orcid']}](https://orcid.org/{A['orcid']}) | **License:** code MIT, data CC BY 4.0 | **DOI:** pending (assigned at the first Zenodo release)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23547650.svg)](https://doi.org/10.5281/zenodo.23547650)
+
+**Status:** {status} | **Maintainer:** {A['name']}, ORCID [{A['orcid']}](https://orcid.org/{A['orcid']}) | **License:** code MIT, data CC BY 4.0 | **DOI:** [10.5281/zenodo.23547650](https://doi.org/10.5281/zenodo.23547650) (all versions: [10.5281/zenodo.23547649](https://doi.org/10.5281/zenodo.23547649))
 
 **In plain terms:** This is a free table of road deaths for every U.S. county, every year from 2015 to 2024. It splits deaths into rural and urban, by type of road and road owner, and by who died (driver, passenger, person walking, person on a bicycle). It adds population and public road miles. Small counties can use it as ready-made evidence for safety planning and grant applications, and researchers can use it to compare counties over a full decade.
 
@@ -230,7 +232,7 @@ See [docs/LIMITATIONS.md](docs/LIMITATIONS.md) before using or citing anything h
 
 ## Citation
 
-{A['name']} ({'2026'}). *U.S. Rural Road Fatality County Panel, 2015-2024* (Version {VERSION}) [Data set]. Zenodo. DOI pending (assigned at the first Zenodo release). See `CITATION.cff`.
+{A['name']} ({'2026'}). *U.S. Rural Road Fatality County Panel, 2015-2024* (Version {VERSION}) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23547650. See `CITATION.cff`.
 
 ## Use of AI tools
 
@@ -252,7 +254,7 @@ Claude (Anthropic) assisted with writing code, assembling data, and drafting doc
 
 **Who can use it.** County engineers and planners, state highway safety offices, regional planning commissions, grant writers for federal Safe Streets and Roads for All funding, and researchers.
 
-**Where it is.** GitHub: {REPO}. Zenodo DOI: pending (assigned at the first Zenodo release). Atlas: {PAGES}.
+**Where it is.** GitHub: {REPO}. Zenodo DOI: https://doi.org/10.5281/zenodo.23547650. Atlas: {PAGES}.
 
 ## Two-sentence version
 

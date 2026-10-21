@@ -26,11 +26,11 @@ All sources are free and public. Nothing here needs special permission.
 
 ## What you will have at the end
 
-- [ ] **A public project page** on GitHub where anyone can see and reuse your work: https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel
-- [ ] **Panel v1.0** with a permanent citation number (**DOI**) from Zenodo: pending (assigned at the first Zenodo release)
-- [ ] **Codebook and provenance log**: what every column means and exactly where every file came from
+- [x] **A public project page** on GitHub where anyone can see and reuse your work: https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel
+- [x] **Panel v1.0** with a permanent citation number (**DOI**) from Zenodo: https://doi.org/10.5281/zenodo.23547650
+- [x] **Codebook and provenance log**: what every column means and exactly where every file came from
 - [ ] **Crosswalk** linking every fatal crash to its 2020 Census town or city and county subdivision, with its own DOI
-- [ ] **Rural Road Safety Atlas**: a public web map with county views and downloadable figures
+- [x] **Rural Road Safety Atlas**: a public web map with county views and downloadable figures: https://emmanuel-oti-nani.github.io/rural-road-fatality-panel/
 - [ ] **Validation study** (a short paper for a **preprint** server): how often FARS's own "rural" label agrees with the Census map
 
 ## How it connects to your work
