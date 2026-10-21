@@ -1,0 +1,74 @@
+column,type,definition,source
+fips,text,"5-digit county FIPS code, 2020 Census county geography",TIGER/Line 2020
+state_fips,text,2-digit state FIPS code,TIGER/Line 2020
+state,text,State postal abbreviation,derived
+state_name,text,State name,derived
+county_name,text,County name with legal/statistical area description,TIGER/Line 2020 NAMELSAD
+year,integer,Crash year (FARS data year),FARS
+crashes,integer,Fatal crashes assigned to the county (join rule 1),FARS accident file
+deaths,integer,Deaths (sum of FATALS) in crashes assigned to the county,FARS accident file
+crashes_rural,integer,Fatal crashes whose map point is outside a 2020 Census urban area,FARS + 2020 urban areas
+crashes_ru_unknown,integer,Fatal crashes with no usable map point,FARS
+crashes_urban,integer,Fatal crashes whose map point is inside a 2020 Census urban area,FARS + 2020 urban areas
+deaths_rural,integer,Deaths in crashes outside a 2020 Census urban area (primary rural measure),FARS person file + 2020 urban areas
+deaths_ru_unknown,integer,Deaths in crashes with no usable map point,FARS
+deaths_urban,integer,Deaths in crashes inside a 2020 Census urban area,FARS person file + 2020 urban areas
+deaths_fars_rural,integer,Deaths in crashes FARS labels rural (RUR_URB = 1); NHTSA's definition,FARS RUR_URB
+deaths_fars_ru_unknown,integer,"Deaths in crashes with another RUR_URB code (not in inventory, not reported, unknown)",FARS RUR_URB
+deaths_fars_urban,integer,Deaths in crashes FARS labels urban (RUR_URB = 2),FARS RUR_URB
+deaths_cyclist,integer,Deaths of bicyclists and other cyclists,FARS person file PER_TYP
+deaths_driver,integer,Deaths of drivers,FARS person file PER_TYP
+deaths_nonmotorist_other,integer,"Deaths of other non-motorists (personal conveyances, non-motor devices, unknown)",FARS person file PER_TYP
+deaths_occupant_other,integer,Deaths of other or unknown vehicle occupants,FARS person file PER_TYP
+deaths_passenger,integer,Deaths of passengers,FARS person file PER_TYP
+deaths_pedestrian,integer,Deaths of pedestrians,FARS person file PER_TYP
+deaths_rural_cyclist,integer,Rural deaths (Census map) of bicyclists and other cyclists,FARS person file + 2020 urban areas
+deaths_rural_driver,integer,Rural deaths (Census map) of drivers,FARS person file + 2020 urban areas
+deaths_rural_nonmotorist_other,integer,"Rural deaths (Census map) of other non-motorists (personal conveyances, non-motor devices, unknown)",FARS person file + 2020 urban areas
+deaths_rural_occupant_other,integer,Rural deaths (Census map) of other or unknown vehicle occupants,FARS person file + 2020 urban areas
+deaths_rural_passenger,integer,Rural deaths (Census map) of passengers,FARS person file + 2020 urban areas
+deaths_rural_pedestrian,integer,Rural deaths (Census map) of pedestrians,FARS person file + 2020 urban areas
+deaths_arterial,integer,Deaths on other principal and minor arterials (3-4),FARS FUNC_SYS
+deaths_collector,integer,Deaths on major and minor collectors (5-6),FARS FUNC_SYS
+deaths_interstate_fwy,integer,Deaths on Interstates and other freeways/expressways (FUNC_SYS 1-2),FARS FUNC_SYS
+deaths_local,integer,Deaths on local roads (7),FARS FUNC_SYS
+deaths_road_unknown,integer,"Deaths on not in inventory, not reported, or unknown (96-99)",FARS FUNC_SYS
+deaths_rural_arterial,integer,Rural deaths (Census map) on other principal and minor arterials (3-4),FARS FUNC_SYS + 2020 urban areas
+deaths_rural_collector,integer,Rural deaths (Census map) on major and minor collectors (5-6),FARS FUNC_SYS + 2020 urban areas
+deaths_rural_interstate_fwy,integer,Rural deaths (Census map) on Interstates and other freeways/expressways (FUNC_SYS 1-2),FARS FUNC_SYS + 2020 urban areas
+deaths_rural_local,integer,Rural deaths (Census map) on local roads (7),FARS FUNC_SYS + 2020 urban areas
+deaths_rural_road_unknown,integer,"Rural deaths (Census map) on not in inventory, not reported, or unknown (96-99)",FARS FUNC_SYS + 2020 urban areas
+deaths_own_county,integer,Deaths on roads owned by: county highway agency,FARS RD_OWNER
+deaths_own_federal_tribal,integer,Deaths on roads owned by: federal agencies and tribal nations,FARS RD_OWNER
+deaths_own_other_public_private,integer,"Deaths on roads owned by: other public instrumentality, private, or railroad",FARS RD_OWNER
+deaths_own_owner_unknown,integer,Deaths on roads owned by: not reported or unknown,FARS RD_OWNER
+deaths_own_state,integer,Deaths on roads owned by: state highway agency or other state agency/toll authority,FARS RD_OWNER
+deaths_own_town_city,integer,"Deaths on roads owned by: town, township, city, municipal, or local park/toll",FARS RD_OWNER
+n_crashes_no_coords,integer,Crashes in this county-year with no usable map point,FARS
+n_crashes_point_in_other_county,integer,Crashes coded to this county whose map point falls in another county,FARS + TIGER/Line 2020
+population,integer,"Resident population, July 1 estimate","Census Population Estimates (V2019 for 2015-19, V2024 for 2020-24)"
+pop_source,text,"Which estimate vintage, or how the value was rebuilt",derived
+pop_imputed,boolean,"True when population was rebuilt (CT 2020-24) or split (AK 02063/02066, 2015-19)",derived
+pop2020_census,integer,2020 Census total population,Census 2020 urban/rural county file
+pop2020_rural,integer,2020 Census rural population (outside urban areas),Census 2020 urban/rural county file
+pct_rural_2020,number,Percent of 2020 population living in rural areas,Census 2020 urban/rural county file
+death_rate_per100k,number,"deaths / population x 100,000 (one year; unstable for small counties)",derived
+land_area_m2,integer,Land area in square meters,TIGER/Line 2020 ALAND
+miles_total_2024,number,"Public road centerline miles, 2024 (join rule 7); same value in every year",FHWA HPMS 2024
+miles_rural_fhwa_2024,number,Public road miles outside FHWA adjusted urban areas (URBAN_ID 99999),FHWA HPMS 2024
+miles_arterial_2024,number,"Public road miles, other principal and minor arterials (3-4)",FHWA HPMS 2024 F_SYSTEM
+miles_collector_2024,number,"Public road miles, major and minor collectors (5-6)",FHWA HPMS 2024 F_SYSTEM
+miles_interstate_fwy_2024,number,"Public road miles, Interstates and other freeways/expressways (FUNC_SYS 1-2)",FHWA HPMS 2024 F_SYSTEM
+miles_local_2024,number,"Public road miles, local roads (7)",FHWA HPMS 2024 F_SYSTEM
+miles_rural_arterial_2024,number,"Rural (FHWA) public road miles, other principal and minor arterials (3-4)","FHWA HPMS 2024 F_SYSTEM, URBAN_ID"
+miles_rural_collector_2024,number,"Rural (FHWA) public road miles, major and minor collectors (5-6)","FHWA HPMS 2024 F_SYSTEM, URBAN_ID"
+miles_rural_interstate_fwy_2024,number,"Rural (FHWA) public road miles, Interstates and other freeways/expressways (FUNC_SYS 1-2)","FHWA HPMS 2024 F_SYSTEM, URBAN_ID"
+miles_rural_local_2024,number,"Rural (FHWA) public road miles, local roads (7)","FHWA HPMS 2024 F_SYSTEM, URBAN_ID"
+miles_own_county_2024,number,Public road miles owned by: county highway agency,FHWA HPMS 2024 OWNERSHIP
+miles_own_federal_tribal_2024,number,Public road miles owned by: federal agencies and tribal nations,FHWA HPMS 2024 OWNERSHIP
+miles_own_other_public_private_2024,number,"Public road miles owned by: other public instrumentality, private, or railroad",FHWA HPMS 2024 OWNERSHIP
+miles_own_owner_unknown_2024,number,Public road miles owned by: not reported or unknown,FHWA HPMS 2024 OWNERSHIP
+miles_own_state_2024,number,Public road miles owned by: state highway agency or other state agency/toll authority,FHWA HPMS 2024 OWNERSHIP
+miles_own_town_city_2024,number,"Public road miles owned by: town, township, city, municipal, or local park/toll",FHWA HPMS 2024 OWNERSHIP
+miles_method,text,"county_code, or county_code_plus_map_overlap where blank county codes were assigned by boundary overlap",derived
+miles_quality_state,text,complete / local_roads_mismatch / check: state map mileage vs FHWA Table HM-20,derived

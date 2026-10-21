@@ -1,0 +1,3561 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="302.4pt" viewBox="0 0 792 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T20:29:47.618914</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 302.4 
+L 792 302.4 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 39.6 250.992 
+L 193.418182 250.992 
+L 193.418182 96.768 
+L 39.6 96.768 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <!-- 2015 -->
+      <g style="fill: #605e5c" transform="translate(42.606736 262.180232) scale(0.085 -0.085)">
+       <defs>
+        <path id="Selawik-Regular-ea" d="M 3103 0 
+L 338 0 
+L 338 191 
+Q 338 625 448 936 
+Q 559 1247 740 1469 
+Q 922 1691 1139 1856 
+Q 1356 2022 1573 2167 
+Q 1791 2313 1972 2467 
+Q 2153 2622 2264 2823 
+Q 2375 3025 2375 3306 
+Q 2375 3638 2226 3806 
+Q 2078 3975 1845 4029 
+Q 1613 4084 1350 4068 
+Q 1088 4053 855 4008 
+Q 622 3963 478 3934 
+L 397 4431 
+Q 503 4450 728 4490 
+Q 953 4531 1239 4556 
+Q 1525 4581 1822 4551 
+Q 2119 4522 2370 4398 
+Q 2622 4275 2776 4025 
+Q 2931 3775 2931 3353 
+Q 2931 2916 2792 2622 
+Q 2653 2328 2434 2128 
+Q 2216 1928 1972 1770 
+Q 1728 1613 1509 1450 
+Q 1291 1288 1152 1069 
+Q 1013 850 1013 522 
+L 3103 522 
+L 3103 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Selawik-Regular-e8" d="M 3191 2256 
+Q 3191 1141 2795 528 
+Q 2400 -84 1681 -84 
+Q 1006 -84 636 500 
+Q 266 1084 266 2147 
+Q 266 3297 661 3926 
+Q 1056 4556 1778 4556 
+L 1778 4550 
+Q 2450 4550 2820 3950 
+Q 3191 3350 3191 2256 
+z
+M 828 2169 
+Q 828 1319 1064 851 
+Q 1300 384 1734 384 
+L 1738 388 
+Q 2166 388 2398 864 
+Q 2631 1341 2631 2206 
+Q 2631 3103 2403 3595 
+Q 2175 4088 1756 4088 
+Q 1313 4088 1070 3586 
+Q 828 3084 828 2169 
+z
+" transform="scale(0.015625)"/>
+        <path id="Selawik-Regular-e9" d="M 2266 -3 
+L 1722 -3 
+L 1722 3991 
+L 778 3678 
+L 666 4125 
+L 1903 4581 
+L 2263 4581 
+L 2266 -3 
+z
+" transform="scale(0.015625)"/>
+        <path id="Selawik-Regular-ed" d="M 3022 1378 
+Q 3022 894 2850 597 
+Q 2678 300 2401 151 
+Q 2125 3 1806 -39 
+Q 1488 -81 1191 -56 
+Q 894 -31 681 22 
+Q 469 75 406 113 
+L 503 616 
+Q 575 588 747 541 
+Q 919 494 1141 462 
+Q 1363 431 1594 442 
+Q 1825 453 2023 540 
+Q 2222 628 2344 818 
+Q 2466 1009 2466 1338 
+Q 2466 1800 2153 2020 
+Q 1841 2241 1350 2241 
+Q 1269 2241 1125 2236 
+Q 981 2231 834 2222 
+Q 688 2213 597 2203 
+L 750 4481 
+L 2822 4481 
+L 2822 3956 
+L 1225 3956 
+L 1134 2703 
+Q 1203 2706 1339 2712 
+Q 1475 2719 1516 2719 
+Q 2034 2719 2367 2542 
+Q 2700 2366 2861 2062 
+Q 3022 1759 3022 1378 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e9" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <!-- 2020 -->
+      <g style="fill: #605e5c" transform="translate(114.538172 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <!-- 2024 -->
+      <g style="fill: #605e5c" transform="translate(172.08332 262.180232) scale(0.085 -0.085)">
+       <defs>
+        <path id="Selawik-Regular-ec" d="M 2653 -3 
+L 2147 -3 
+L 2147 894 
+L 41 894 
+L 41 1338 
+L 2109 4481 
+L 2653 4478 
+L 2653 1363 
+L 3228 1363 
+L 3228 894 
+L 2653 894 
+L 2653 -3 
+z
+M 2147 3713 
+L 619 1363 
+L 2147 1363 
+L 2147 3713 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ec" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <path d="M 39.6 250.992 
+L 193.418182 250.992 
+" clip-path="url(#p5635e9e2bf)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5"/>
+     <g id="text_4">
+      <!-- 0 -->
+      <g style="fill: #605e5c" transform="translate(29.017969 254.086116) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <path d="M 39.6 230.445237 
+L 193.418182 230.445237 
+" clip-path="url(#p5635e9e2bf)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_5">
+      <!-- 2.5K -->
+      <g style="fill: #605e5c" transform="translate(17.661172 233.539354) scale(0.085 -0.085)">
+       <defs>
+        <path id="Selawik-Regular-103" d="M 1050 281 
+Q 1050 122 953 26 
+Q 856 -69 697 -69 
+Q 538 -69 442 26 
+Q 347 122 347 281 
+Q 347 441 442 537 
+Q 538 634 697 634 
+Q 856 634 953 537 
+Q 1050 441 1050 281 
+z
+" transform="scale(0.015625)"/>
+        <path id="Selawik-Regular-30" d="M 1113 0 
+L 588 0 
+L 588 4481 
+L 1113 4481 
+L 1113 2253 
+Q 1194 2353 1273 2451 
+Q 1353 2550 1434 2647 
+L 3075 4638 
+L 3653 4559 
+L 2228 2819 
+L 3684 0 
+L 3056 0 
+L 1841 2341 
+L 1113 1453 
+L 1113 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-103" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(75.59375 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(129.5 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <path d="M 39.6 209.898475 
+L 193.418182 209.898475 
+" clip-path="url(#p5635e9e2bf)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_6">
+      <!-- 5K -->
+      <g style="fill: #605e5c" transform="translate(24.086641 212.992591) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ed"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(53.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <path d="M 39.6 189.351712 
+L 193.418182 189.351712 
+" clip-path="url(#p5635e9e2bf)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_7">
+      <!-- 7.5K -->
+      <g style="fill: #605e5c" transform="translate(17.661172 192.445828) scale(0.085 -0.085)">
+       <defs>
+        <path id="Selawik-Regular-ef" d="M 1628 0 
+L 1047 0 
+L 2522 3988 
+L 306 3988 
+L 306 4481 
+L 3156 4481 
+L 3163 4191 
+L 1628 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Selawik-Regular-ef"/>
+       <use xlink:href="#Selawik-Regular-103" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(75.59375 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(129.5 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <path d="M 39.6 168.80495 
+L 193.418182 168.80495 
+" clip-path="url(#p5635e9e2bf)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <!-- 10K -->
+      <g style="fill: #605e5c" transform="translate(19.504609 171.899066) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <path d="M 39.6 148.258187 
+L 193.418182 148.258187 
+" clip-path="url(#p5635e9e2bf)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_9">
+      <!-- 12.5K -->
+      <g style="fill: #605e5c" transform="translate(13.079141 151.352303) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-103" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(129.5 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(183.40625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <path d="M 39.6 127.711424 
+L 193.418182 127.711424 
+" clip-path="url(#p5635e9e2bf)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17"/>
+     <g id="text_10">
+      <!-- 15K -->
+      <g style="fill: #605e5c" transform="translate(19.504609 130.805541) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18">
+      <path d="M 39.6 107.164662 
+L 193.418182 107.164662 
+" clip-path="url(#p5635e9e2bf)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_19"/>
+     <g id="text_11">
+      <!-- 17.5K -->
+      <g style="fill: #605e5c" transform="translate(13.079141 110.258778) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-ef" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-103" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(129.5 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(183.40625 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 46.591736 250.992 
+L 56.949862 250.992 
+L 56.949862 143.450245 
+L 46.591736 143.450245 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 60.978023 250.992 
+L 71.336149 250.992 
+L 71.336149 138.313554 
+L 60.978023 138.313554 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 75.36431 250.992 
+L 85.722436 250.992 
+L 85.722436 138.494365 
+L 75.36431 138.494365 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 89.750597 250.992 
+L 100.108724 250.992 
+L 100.108724 142.003753 
+L 89.750597 142.003753 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 104.136884 250.992 
+L 114.495011 250.992 
+L 114.495011 142.143471 
+L 104.136884 142.143471 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 118.523171 250.992 
+L 128.881298 250.992 
+L 128.881298 137.212247 
+L 118.523171 137.212247 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 132.909458 250.992 
+L 143.267585 250.992 
+L 143.267585 127.6128 
+L 132.909458 127.6128 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 147.295745 250.992 
+L 157.653872 250.992 
+L 157.653872 128.771637 
+L 147.295745 128.771637 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 161.682032 250.992 
+L 172.040159 250.992 
+L 172.040159 134.738417 
+L 161.682032 134.738417 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 176.06832 250.992 
+L 186.426446 250.992 
+L 186.426446 138.182055 
+L 176.06832 138.182055 
+z
+" clip-path="url(#p5635e9e2bf)" style="fill: #118dff"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 39.6 250.992 
+L 193.418182 250.992 
+" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <!-- 13,726 -->
+    <g style="fill: #252423" transform="translate(167.873828 133.393236) scale(0.085 -0.085)">
+     <defs>
+      <path id="Selawik-Bold-e9" d="M 2641 -3 
+L 1728 -3 
+L 1728 3509 
+L 691 3272 
+L 516 4125 
+L 2153 4581 
+L 2638 4581 
+L 2641 -3 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-eb" d="M 3159 1266 
+Q 3159 828 2989 558 
+Q 2819 288 2545 148 
+Q 2272 9 1953 -34 
+Q 1634 -78 1332 -62 
+Q 1031 -47 806 -6 
+Q 581 34 497 59 
+L 584 853 
+Q 700 813 895 783 
+Q 1091 753 1312 751 
+Q 1534 750 1732 792 
+Q 1931 834 2057 936 
+Q 2184 1038 2184 1219 
+Q 2184 1569 1882 1708 
+Q 1581 1847 1106 1847 
+L 1088 2781 
+Q 1506 2781 1765 2912 
+Q 2025 3044 2025 3356 
+Q 2025 3531 1919 3625 
+Q 1813 3719 1647 3756 
+Q 1481 3794 1298 3791 
+Q 1116 3788 958 3766 
+Q 800 3744 713 3722 
+L 656 4472 
+Q 759 4488 970 4517 
+Q 1181 4547 1447 4559 
+Q 1713 4572 1984 4537 
+Q 2256 4503 2489 4392 
+Q 2722 4281 2864 4062 
+Q 3006 3844 3006 3484 
+Q 3006 2597 2141 2347 
+L 2141 2334 
+Q 2481 2300 2706 2142 
+Q 2931 1984 3045 1753 
+Q 3159 1522 3159 1266 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-fe" d="M 1394 744 
+Q 1391 244 1244 -200 
+Q 1097 -644 800 -950 
+L 91 -575 
+Q 297 -247 408 97 
+Q 519 441 550 744 
+L 1394 744 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-ef" d="M 2066 0 
+L 1109 0 
+L 2331 3581 
+L 463 3581 
+L 463 4481 
+L 3488 4481 
+L 3494 4191 
+L 2066 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-ea" d="M 3166 0 
+L 369 0 
+L 369 191 
+Q 369 684 491 1017 
+Q 613 1350 806 1579 
+Q 1000 1809 1215 1984 
+Q 1431 2159 1625 2325 
+Q 1819 2491 1941 2700 
+Q 2063 2909 2063 3213 
+Q 2063 3444 1939 3553 
+Q 1816 3663 1620 3684 
+Q 1425 3706 1206 3678 
+Q 988 3650 792 3603 
+Q 597 3556 478 3528 
+L 397 4431 
+Q 506 4450 736 4490 
+Q 966 4531 1259 4556 
+Q 1553 4581 1856 4551 
+Q 2159 4522 2417 4398 
+Q 2675 4275 2834 4025 
+Q 2994 3775 2994 3353 
+Q 2994 2963 2889 2673 
+Q 2784 2384 2618 2170 
+Q 2453 1956 2268 1787 
+Q 2084 1619 1918 1472 
+Q 1753 1325 1648 1173 
+Q 1544 1022 1544 834 
+L 3166 834 
+L 3166 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-ee" d="M 3344 1456 
+Q 3344 953 3145 609 
+Q 2947 266 2617 92 
+Q 2288 -81 1894 -81 
+Q 1491 -81 1214 47 
+Q 938 175 763 390 
+Q 588 606 495 873 
+Q 403 1141 368 1425 
+Q 334 1709 334 1969 
+Q 334 3038 621 3639 
+Q 909 4241 1501 4436 
+Q 2094 4631 3003 4475 
+L 2909 3588 
+Q 2316 3681 1977 3581 
+Q 1638 3481 1483 3229 
+Q 1328 2978 1288 2616 
+Q 1425 2713 1615 2778 
+Q 1806 2844 2053 2844 
+Q 2519 2844 2803 2636 
+Q 3088 2428 3216 2109 
+Q 3344 1791 3344 1456 
+z
+M 1878 1928 
+Q 1688 1938 1538 1905 
+Q 1388 1872 1275 1813 
+Q 1281 1650 1298 1467 
+Q 1316 1284 1375 1125 
+Q 1434 966 1562 866 
+Q 1691 766 1919 766 
+Q 2216 766 2327 955 
+Q 2438 1144 2438 1381 
+Q 2438 1584 2316 1756 
+Q 2194 1928 1878 1928 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Bold-e9"/>
+     <use xlink:href="#Selawik-Bold-eb" transform="translate(57.515625 0)"/>
+     <use xlink:href="#Selawik-Bold-fe" transform="translate(115.03125 0)"/>
+     <use xlink:href="#Selawik-Bold-ef" transform="translate(142.125 0)"/>
+     <use xlink:href="#Selawik-Bold-ea" transform="translate(199.640625 0)"/>
+     <use xlink:href="#Selawik-Bold-ee" transform="translate(257.15625 0)"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- 2024 vs 2015: +5% -->
+    <g style="fill: #605e5c" transform="translate(39.6 87.267982) scale(0.085 -0.085)">
+     <defs>
+      <path id="Selawik-Regular-11f" transform="scale(0.015625)"/>
+      <path id="Selawik-Regular-d8" d="M 1766 -16 
+L 1263 -16 
+L 50 3044 
+L 597 3044 
+L 1409 953 
+Q 1425 913 1450 817 
+Q 1475 722 1497 630 
+Q 1519 538 1522 503 
+L 1534 503 
+Q 1541 544 1558 636 
+Q 1575 728 1595 818 
+Q 1616 909 1628 941 
+L 2478 3044 
+L 3041 3044 
+L 1766 -16 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Regular-c4" d="M 2434 822 
+Q 2434 -78 1297 -78 
+Q 803 -75 269 166 
+L 438 625 
+Q 941 400 1297 394 
+Q 1947 403 1950 822 
+Q 1947 1000 1837 1098 
+Q 1728 1197 1554 1258 
+Q 1381 1319 1187 1380 
+Q 994 1441 822 1537 
+Q 650 1634 540 1804 
+Q 431 1975 428 2256 
+Q 438 3131 1494 3131 
+Q 1978 3131 2338 2966 
+L 2159 2500 
+Q 1800 2659 1494 2659 
+Q 934 2653 913 2256 
+Q 916 2106 1025 2020 
+Q 1134 1934 1307 1878 
+Q 1481 1822 1673 1758 
+Q 1866 1694 2039 1587 
+Q 2213 1481 2323 1300 
+Q 2434 1119 2434 822 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Regular-fd" d="M 1113 2713 
+Q 1113 2544 994 2430 
+Q 875 2316 697 2316 
+Q 522 2316 403 2430 
+Q 284 2544 284 2713 
+Q 284 2884 403 2998 
+Q 522 3113 697 3113 
+Q 875 3113 994 2998 
+Q 1113 2884 1113 2713 
+z
+M 1113 328 
+Q 1113 159 994 45 
+Q 875 -69 697 -69 
+Q 522 -69 403 45 
+Q 284 159 284 328 
+Q 284 500 403 614 
+Q 522 728 697 728 
+Q 875 728 994 614 
+Q 1113 500 1113 328 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Regular-132" d="M 2400 397 
+L 1984 397 
+L 1984 1656 
+L 725 1656 
+L 725 2075 
+L 1984 2075 
+L 1984 3334 
+L 2400 3334 
+L 2400 2075 
+L 3663 2075 
+L 3663 1656 
+L 2400 1656 
+L 2400 397 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Regular-130" d="M 4234 4413 
+L 1503 -188 
+L 1053 0 
+L 3787 4600 
+L 4234 4413 
+z
+M 5003 1090 
+Q 5003 772 4862 517 
+Q 4722 262 4481 115 
+Q 4241 -32 3935 -32 
+Q 3647 -32 3417 107 
+Q 3188 247 3055 486 
+Q 2922 725 2922 1025 
+Q 2922 1340 3062 1588 
+Q 3203 1837 3447 1982 
+Q 3691 2128 3997 2128 
+Q 4285 2128 4513 1992 
+Q 4741 1856 4872 1621 
+Q 5003 1387 5003 1090 
+z
+M 3431 1053 
+Q 3431 778 3584 593 
+Q 3738 409 3966 409 
+Q 4194 409 4345 601 
+Q 4497 793 4497 1078 
+Q 4497 1340 4348 1515 
+Q 4200 1690 3978 1690 
+Q 3744 1690 3587 1507 
+Q 3431 1325 3431 1053 
+z
+M 2331 3481 
+Q 2331 3163 2190 2908 
+Q 2050 2653 1809 2506 
+Q 1569 2359 1263 2359 
+Q 975 2359 745 2498 
+Q 516 2638 383 2877 
+Q 250 3116 250 3416 
+Q 250 3731 390 3979 
+Q 531 4228 775 4373 
+Q 1019 4519 1325 4519 
+Q 1613 4519 1841 4383 
+Q 2069 4247 2200 4012 
+Q 2331 3778 2331 3481 
+z
+M 759 3444 
+Q 759 3169 912 2984 
+Q 1066 2800 1294 2800 
+Q 1522 2800 1673 2992 
+Q 1825 3184 1825 3469 
+Q 1825 3731 1676 3906 
+Q 1528 4081 1306 4081 
+Q 1072 4081 915 3898 
+Q 759 3716 759 3444 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Regular-ea"/>
+     <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+     <use xlink:href="#Selawik-Regular-ec" transform="translate(161.71875 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(215.625 0)"/>
+     <use xlink:href="#Selawik-Regular-d8" transform="translate(243.015625 0)"/>
+     <use xlink:href="#Selawik-Regular-c4" transform="translate(290.921875 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(333.359375 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(360.75 0)"/>
+     <use xlink:href="#Selawik-Regular-e8" transform="translate(414.65625 0)"/>
+     <use xlink:href="#Selawik-Regular-e9" transform="translate(468.5625 0)"/>
+     <use xlink:href="#Selawik-Regular-ed" transform="translate(522.46875 0)"/>
+     <use xlink:href="#Selawik-Regular-fd" transform="translate(576.375 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(598.0625 0)"/>
+     <use xlink:href="#Selawik-Regular-132" transform="translate(625.453125 0)"/>
+     <use xlink:href="#Selawik-Regular-ed" transform="translate(693.859375 0)"/>
+     <use xlink:href="#Selawik-Regular-130" transform="translate(747.765625 0)"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- Drivers -->
+    <g style="fill: #252423" transform="translate(39.6 76.768) scale(0.105 -0.105)">
+     <defs>
+      <path id="Selawik-Bold-12" d="M 2188 0 
+L 513 -6 
+L 513 4481 
+L 2234 4481 
+Q 3338 4481 3911 3948 
+Q 4484 3416 4484 2294 
+Q 4484 1584 4196 1071 
+Q 3909 559 3392 281 
+Q 2875 3 2188 0 
+z
+M 1494 3659 
+L 1494 822 
+L 2194 822 
+Q 2809 822 3146 1201 
+Q 3484 1581 3484 2275 
+Q 3484 2984 3161 3328 
+Q 2838 3672 2222 3666 
+L 1494 3659 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-c0" d="M 1403 0 
+L 416 0 
+L 422 3044 
+L 1275 3044 
+L 1394 2394 
+Q 1713 3347 2566 3094 
+L 2478 2138 
+Q 1794 2206 1409 1744 
+L 1403 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-98" d="M 1441 4253 
+Q 1441 4025 1289 3870 
+Q 1138 3716 909 3716 
+Q 681 3716 528 3870 
+Q 375 4025 375 4253 
+Q 375 4478 528 4631 
+Q 681 4784 909 4784 
+Q 1138 4784 1289 4631 
+Q 1441 4478 1441 4253 
+z
+M 1403 0 
+L 416 0 
+L 416 3044 
+L 1403 3044 
+L 1403 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-d8" d="M 2269 -16 
+L 1141 -16 
+L 13 3044 
+L 1066 3044 
+L 1641 1141 
+Q 1653 1100 1676 997 
+Q 1700 894 1719 794 
+Q 1738 694 1741 659 
+L 1753 659 
+Q 1759 700 1778 800 
+Q 1797 900 1817 998 
+Q 1838 1097 1847 1128 
+L 2438 3044 
+L 3463 3044 
+L 2269 -16 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-88" d="M 3031 147 
+Q 2884 84 2678 34 
+Q 2472 -16 2253 -44 
+Q 2034 -72 1850 -72 
+Q 1106 -72 665 311 
+Q 225 694 225 1541 
+Q 225 2316 647 2725 
+Q 1069 3134 1819 3134 
+Q 2300 3134 2614 2957 
+Q 2928 2781 3089 2493 
+Q 3250 2206 3275 1870 
+Q 3300 1534 3203 1219 
+L 1216 1203 
+Q 1291 984 1478 848 
+Q 1666 713 1959 713 
+Q 2163 713 2398 758 
+Q 2634 803 2872 897 
+L 3031 147 
+z
+M 1828 2366 
+Q 1538 2369 1386 2214 
+Q 1234 2059 1188 1813 
+L 2359 1825 
+Q 2381 2028 2267 2195 
+Q 2153 2363 1828 2366 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-c4" d="M 2663 994 
+Q 2663 -78 1297 -78 
+Q 775 -75 206 166 
+L 438 938 
+Q 941 713 1297 706 
+Q 1728 709 1731 963 
+Q 1728 1084 1625 1142 
+Q 1522 1200 1359 1234 
+Q 1197 1269 1014 1311 
+Q 831 1353 670 1437 
+Q 509 1522 406 1684 
+Q 303 1847 300 2122 
+Q 309 3122 1494 3122 
+Q 2125 3122 2588 2925 
+L 2409 2134 
+Q 1969 2306 1588 2306 
+Q 1425 2303 1344 2276 
+Q 1263 2250 1256 2153 
+Q 1259 2066 1361 2016 
+Q 1463 1966 1622 1925 
+Q 1781 1884 1959 1829 
+Q 2138 1775 2297 1678 
+Q 2456 1581 2559 1417 
+Q 2663 1253 2663 994 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Bold-12"/>
+     <use xlink:href="#Selawik-Bold-c0" transform="translate(73.734375 0)"/>
+     <use xlink:href="#Selawik-Bold-98" transform="translate(113.53125 0)"/>
+     <use xlink:href="#Selawik-Bold-d8" transform="translate(141.953125 0)"/>
+     <use xlink:href="#Selawik-Bold-88" transform="translate(196.15625 0)"/>
+     <use xlink:href="#Selawik-Bold-c0" transform="translate(250.265625 0)"/>
+     <use xlink:href="#Selawik-Bold-c4" transform="translate(290.0625 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_14">
+    <path d="M 236.487273 250.992 
+L 390.305455 250.992 
+L 390.305455 96.768 
+L 236.487273 96.768 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_20"/>
+     <g id="text_15">
+      <!-- 2015 -->
+      <g style="fill: #605e5c" transform="translate(239.494009 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e9" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_21"/>
+     <g id="text_16">
+      <!-- 2020 -->
+      <g style="fill: #605e5c" transform="translate(311.425445 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_22"/>
+     <g id="text_17">
+      <!-- 2024 -->
+      <g style="fill: #605e5c" transform="translate(368.970593 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ec" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_9">
+     <g id="line2d_23">
+      <path d="M 236.487273 250.992 
+L 390.305455 250.992 
+" clip-path="url(#p9c9a244d38)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24"/>
+     <g id="text_18">
+      <!-- 0 -->
+      <g style="fill: #605e5c" transform="translate(225.905241 254.086116) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_25">
+      <path d="M 236.487273 220.943486 
+L 390.305455 220.943486 
+" clip-path="url(#p9c9a244d38)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26"/>
+     <g id="text_19">
+      <!-- 1K -->
+      <g style="fill: #605e5c" transform="translate(220.973913 224.037602) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(53.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_27">
+      <path d="M 236.487273 190.894971 
+L 390.305455 190.894971 
+" clip-path="url(#p9c9a244d38)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28"/>
+     <g id="text_20">
+      <!-- 2K -->
+      <g style="fill: #605e5c" transform="translate(220.973913 193.989087) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(53.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_29">
+      <path d="M 236.487273 160.846457 
+L 390.305455 160.846457 
+" clip-path="url(#p9c9a244d38)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30"/>
+     <g id="text_21">
+      <!-- 3K -->
+      <g style="fill: #605e5c" transform="translate(220.973913 163.940573) scale(0.085 -0.085)">
+       <defs>
+        <path id="Selawik-Regular-eb" d="M 2972 1266 
+Q 2972 828 2809 558 
+Q 2647 288 2386 148 
+Q 2125 9 1822 -34 
+Q 1519 -78 1231 -62 
+Q 944 -47 730 -6 
+Q 516 34 434 59 
+L 522 572 
+Q 656 531 890 487 
+Q 1125 444 1390 436 
+Q 1656 428 1893 492 
+Q 2131 556 2282 728 
+Q 2434 900 2434 1219 
+Q 2434 1547 2257 1739 
+Q 2081 1931 1767 2014 
+Q 1453 2097 1044 2097 
+L 1025 2531 
+Q 1584 2531 1929 2717 
+Q 2275 2903 2275 3356 
+Q 2275 3666 2144 3828 
+Q 2013 3991 1806 4048 
+Q 1600 4106 1373 4100 
+Q 1147 4094 951 4059 
+Q 756 4025 650 4003 
+L 594 4472 
+Q 691 4488 891 4517 
+Q 1091 4547 1342 4559 
+Q 1594 4572 1851 4537 
+Q 2109 4503 2329 4392 
+Q 2550 4281 2684 4062 
+Q 2819 3844 2819 3484 
+Q 2819 2597 2109 2347 
+L 2109 2334 
+Q 2397 2300 2587 2142 
+Q 2778 1984 2875 1753 
+Q 2972 1522 2972 1266 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Selawik-Regular-eb"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(53.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_31">
+      <path d="M 236.487273 130.797943 
+L 390.305455 130.797943 
+" clip-path="url(#p9c9a244d38)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32"/>
+     <g id="text_22">
+      <!-- 4K -->
+      <g style="fill: #605e5c" transform="translate(220.973913 133.892059) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ec"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(53.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_33">
+      <path d="M 236.487273 100.749428 
+L 390.305455 100.749428 
+" clip-path="url(#p9c9a244d38)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34"/>
+     <g id="text_23">
+      <!-- 5K -->
+      <g style="fill: #605e5c" transform="translate(220.973913 103.843544) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ed"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(53.90625 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_15">
+    <path d="M 243.479008 250.992 
+L 253.837135 250.992 
+L 253.837135 134.584055 
+L 243.479008 134.584055 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 257.865295 250.992 
+L 268.223422 250.992 
+L 268.223422 127.6128 
+L 257.865295 127.6128 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 272.251582 250.992 
+L 282.609709 250.992 
+L 282.609709 136.987936 
+L 272.251582 136.987936 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 286.63787 250.992 
+L 296.995996 250.992 
+L 296.995996 141.224777 
+L 286.63787 141.224777 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 301.024157 250.992 
+L 311.382283 250.992 
+L 311.382283 141.585359 
+L 301.024157 141.585359 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 315.410444 250.992 
+L 325.768571 250.992 
+L 325.768571 145.281326 
+L 315.410444 145.281326 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 329.796731 250.992 
+L 340.154858 250.992 
+L 340.154858 137.108131 
+L 329.796731 137.108131 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 344.183018 250.992 
+L 354.541145 250.992 
+L 354.541145 138.640605 
+L 344.183018 138.640605 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 358.569305 250.992 
+L 368.927432 250.992 
+L 368.927432 143.448367 
+L 358.569305 143.448367 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 372.955592 250.992 
+L 383.313719 250.992 
+L 383.313719 149.037391 
+L 372.955592 149.037391 
+z
+" clip-path="url(#p9c9a244d38)" style="fill: #118dff"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 236.487273 250.992 
+L 390.305455 250.992 
+" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_24">
+    <!-- 3,393 -->
+    <g style="fill: #252423" transform="translate(367.205515 144.248572) scale(0.085 -0.085)">
+     <defs>
+      <path id="Selawik-Bold-f1" d="M 3303 2497 
+Q 3303 1897 3190 1383 
+Q 3078 869 2798 509 
+Q 2519 150 2025 3 
+Q 1531 -144 766 -13 
+L 828 891 
+Q 1363 784 1680 878 
+Q 1997 972 2153 1230 
+Q 2309 1488 2363 1875 
+Q 2081 1656 1575 1656 
+Q 1247 1656 955 1815 
+Q 663 1975 481 2294 
+Q 300 2613 300 3088 
+Q 300 3513 476 3845 
+Q 653 4178 976 4368 
+Q 1300 4559 1744 4559 
+Q 2316 4559 2658 4309 
+Q 3000 4059 3151 3596 
+Q 3303 3134 3303 2497 
+z
+M 1247 3159 
+Q 1247 2819 1422 2656 
+Q 1597 2494 1844 2494 
+Q 2191 2494 2394 2728 
+Q 2372 3278 2231 3515 
+Q 2091 3753 1772 3753 
+Q 1569 3753 1453 3667 
+Q 1338 3581 1292 3445 
+Q 1247 3309 1247 3159 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Bold-eb"/>
+     <use xlink:href="#Selawik-Bold-fe" transform="translate(57.515625 0)"/>
+     <use xlink:href="#Selawik-Bold-eb" transform="translate(84.609375 0)"/>
+     <use xlink:href="#Selawik-Bold-f1" transform="translate(142.125 0)"/>
+     <use xlink:href="#Selawik-Bold-eb" transform="translate(199.640625 0)"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <!-- 2024 vs 2015: -12% -->
+    <g style="fill: #605e5c" transform="translate(236.487273 87.267982) scale(0.085 -0.085)">
+     <defs>
+      <path id="Selawik-Regular-113" d="M 2156 1425 
+L 450 1425 
+L 450 1828 
+L 2156 1828 
+L 2156 1425 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Regular-ea"/>
+     <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+     <use xlink:href="#Selawik-Regular-ec" transform="translate(161.71875 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(215.625 0)"/>
+     <use xlink:href="#Selawik-Regular-d8" transform="translate(243.015625 0)"/>
+     <use xlink:href="#Selawik-Regular-c4" transform="translate(290.921875 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(333.359375 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(360.75 0)"/>
+     <use xlink:href="#Selawik-Regular-e8" transform="translate(414.65625 0)"/>
+     <use xlink:href="#Selawik-Regular-e9" transform="translate(468.5625 0)"/>
+     <use xlink:href="#Selawik-Regular-ed" transform="translate(522.46875 0)"/>
+     <use xlink:href="#Selawik-Regular-fd" transform="translate(576.375 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(598.0625 0)"/>
+     <use xlink:href="#Selawik-Regular-113" transform="translate(625.453125 0)"/>
+     <use xlink:href="#Selawik-Regular-e9" transform="translate(665.4375 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(719.34375 0)"/>
+     <use xlink:href="#Selawik-Regular-130" transform="translate(773.25 0)"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <!-- Passengers -->
+    <g style="fill: #252423" transform="translate(236.487273 76.768) scale(0.105 -0.105)">
+     <defs>
+      <path id="Selawik-Bold-49" d="M 1491 0 
+L 513 0 
+L 513 4481 
+L 2228 4481 
+Q 2947 4481 3367 4103 
+Q 3788 3725 3788 2997 
+Q 3788 2547 3575 2220 
+Q 3363 1894 2991 1719 
+Q 2619 1544 2138 1544 
+L 1491 1544 
+L 1491 0 
+z
+M 1488 3706 
+L 1488 2309 
+L 2100 2309 
+Q 2397 2309 2573 2473 
+Q 2750 2638 2750 2972 
+Q 2750 3363 2597 3536 
+Q 2444 3709 2169 3709 
+L 1488 3706 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-73" d="M 3303 88 
+L 2413 -122 
+Q 2344 28 2289 186 
+Q 2234 344 2200 506 
+Q 2138 350 2000 219 
+Q 1863 88 1680 8 
+Q 1497 -72 1306 -72 
+Q 994 -72 737 22 
+Q 481 116 328 316 
+Q 175 516 175 831 
+Q 175 1325 536 1604 
+Q 897 1884 1509 1884 
+Q 1825 1884 2144 1741 
+L 2144 1888 
+Q 2144 2138 2005 2247 
+Q 1866 2356 1606 2356 
+Q 1506 2356 1329 2340 
+Q 1153 2325 948 2294 
+Q 744 2263 553 2219 
+L 466 2981 
+Q 878 3047 1165 3086 
+Q 1453 3125 1647 3125 
+Q 3078 3125 3088 1931 
+L 3094 1031 
+Q 3097 781 3153 545 
+Q 3209 309 3303 88 
+z
+M 1103 859 
+Q 1103 756 1218 690 
+Q 1334 625 1516 625 
+Q 1788 625 1959 773 
+Q 2131 922 2144 1122 
+L 2144 1125 
+Q 1872 1178 1588 1178 
+Q 1359 1178 1229 1093 
+Q 1100 1009 1103 859 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-ad" d="M 1403 0 
+L 416 0 
+L 422 3044 
+L 1275 3044 
+L 1366 2763 
+Q 1722 3125 2303 3125 
+Q 2703 3125 2965 2965 
+Q 3228 2806 3358 2531 
+Q 3488 2256 3488 1906 
+L 3488 0 
+L 2506 0 
+L 2506 1638 
+Q 2506 1825 2453 1989 
+Q 2400 2153 2273 2253 
+Q 2147 2353 1925 2353 
+Q 1638 2353 1409 2150 
+L 1403 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-92" d="M 3550 0 
+Q 3550 -531 3256 -862 
+Q 2963 -1194 2428 -1348 
+Q 1894 -1503 1172 -1506 
+L 1113 -666 
+Q 1922 -634 2251 -434 
+Q 2581 -234 2581 172 
+Q 2581 197 2581 347 
+Q 2313 -72 1678 -72 
+Q 1238 -72 909 120 
+Q 581 313 398 661 
+Q 216 1009 216 1475 
+Q 216 1972 419 2342 
+Q 622 2713 989 2919 
+Q 1356 3125 1847 3125 
+Q 2275 3125 2666 2853 
+L 2709 3044 
+L 3553 3044 
+L 3550 0 
+z
+M 1234 1509 
+Q 1234 1325 1298 1137 
+Q 1363 950 1502 825 
+Q 1641 700 1866 700 
+Q 2219 700 2400 889 
+Q 2581 1078 2581 1416 
+L 2584 1413 
+Q 2584 1647 2584 1864 
+Q 2584 2081 2584 2238 
+Q 2416 2322 2247 2350 
+Q 2078 2378 1950 2378 
+Q 1619 2378 1426 2147 
+Q 1234 1916 1234 1509 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Bold-49"/>
+     <use xlink:href="#Selawik-Bold-73" transform="translate(61.421875 0)"/>
+     <use xlink:href="#Selawik-Bold-c4" transform="translate(115.234375 0)"/>
+     <use xlink:href="#Selawik-Bold-c4" transform="translate(159.234375 0)"/>
+     <use xlink:href="#Selawik-Bold-88" transform="translate(203.234375 0)"/>
+     <use xlink:href="#Selawik-Bold-ad" transform="translate(257.34375 0)"/>
+     <use xlink:href="#Selawik-Bold-92" transform="translate(317.84375 0)"/>
+     <use xlink:href="#Selawik-Bold-88" transform="translate(379.765625 0)"/>
+     <use xlink:href="#Selawik-Bold-c0" transform="translate(433.875 0)"/>
+     <use xlink:href="#Selawik-Bold-c4" transform="translate(473.671875 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_26">
+    <path d="M 433.374545 250.992 
+L 587.192727 250.992 
+L 587.192727 96.768 
+L 433.374545 96.768 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_7">
+     <g id="line2d_35"/>
+     <g id="text_27">
+      <!-- 2015 -->
+      <g style="fill: #605e5c" transform="translate(436.381282 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e9" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_36"/>
+     <g id="text_28">
+      <!-- 2020 -->
+      <g style="fill: #605e5c" transform="translate(508.312717 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_37"/>
+     <g id="text_29">
+      <!-- 2024 -->
+      <g style="fill: #605e5c" transform="translate(565.857866 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ec" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_15">
+     <g id="line2d_38">
+      <path d="M 433.374545 250.992 
+L 587.192727 250.992 
+" clip-path="url(#pc7c9fb1f7b)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_39"/>
+     <g id="text_30">
+      <!-- 0 -->
+      <g style="fill: #605e5c" transform="translate(422.792514 254.086116) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_40">
+      <path d="M 433.374545 229.951891 
+L 587.192727 229.951891 
+" clip-path="url(#pc7c9fb1f7b)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_41"/>
+     <g id="text_31">
+      <!-- 250 -->
+      <g style="fill: #605e5c" transform="translate(413.628452 233.046007) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_42">
+      <path d="M 433.374545 208.911782 
+L 587.192727 208.911782 
+" clip-path="url(#pc7c9fb1f7b)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_43"/>
+     <g id="text_32">
+      <!-- 500 -->
+      <g style="fill: #605e5c" transform="translate(413.628452 212.005898) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ed"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_44">
+      <path d="M 433.374545 187.871673 
+L 587.192727 187.871673 
+" clip-path="url(#pc7c9fb1f7b)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_45"/>
+     <g id="text_33">
+      <!-- 750 -->
+      <g style="fill: #605e5c" transform="translate(413.628452 190.965789) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ef"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_46">
+      <path d="M 433.374545 166.831563 
+L 587.192727 166.831563 
+" clip-path="url(#pc7c9fb1f7b)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_47"/>
+     <g id="text_34">
+      <!-- 1K -->
+      <g style="fill: #605e5c" transform="translate(417.861186 169.92568) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(53.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_48">
+      <path d="M 433.374545 145.791454 
+L 587.192727 145.791454 
+" clip-path="url(#pc7c9fb1f7b)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_49"/>
+     <g id="text_35">
+      <!-- 1.2K -->
+      <g style="fill: #605e5c" transform="translate(411.435717 148.885571) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-103" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(75.59375 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(129.5 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_50">
+      <path d="M 433.374545 124.751345 
+L 587.192727 124.751345 
+" clip-path="url(#pc7c9fb1f7b)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_51"/>
+     <g id="text_36">
+      <!-- 1.5K -->
+      <g style="fill: #605e5c" transform="translate(411.435717 127.845461) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-103" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(75.59375 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(129.5 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_52">
+      <path d="M 433.374545 103.711236 
+L 587.192727 103.711236 
+" clip-path="url(#pc7c9fb1f7b)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_53"/>
+     <g id="text_37">
+      <!-- 1.8K -->
+      <g style="fill: #605e5c" transform="translate(411.435717 106.805352) scale(0.085 -0.085)">
+       <defs>
+        <path id="Selawik-Regular-f0" d="M 3191 1250 
+Q 3191 900 3023 598 
+Q 2856 297 2532 112 
+Q 2209 -72 1734 -72 
+Q 1256 -72 934 115 
+Q 613 303 450 604 
+Q 288 906 288 1250 
+Q 288 1556 413 1792 
+Q 538 2028 730 2189 
+Q 922 2350 1119 2425 
+Q 834 2584 659 2837 
+Q 484 3091 484 3406 
+Q 484 3700 628 3962 
+Q 772 4225 1051 4390 
+Q 1331 4556 1738 4556 
+Q 2025 4556 2315 4436 
+Q 2606 4316 2801 4061 
+Q 2997 3806 2997 3406 
+Q 2997 3091 2822 2839 
+Q 2647 2588 2366 2425 
+Q 2563 2350 2752 2187 
+Q 2941 2025 3066 1789 
+Q 3191 1553 3191 1250 
+z
+M 1025 3378 
+Q 1025 3209 1106 3040 
+Q 1188 2872 1350 2758 
+Q 1513 2644 1753 2644 
+Q 1916 2644 2075 2726 
+Q 2234 2809 2340 2973 
+Q 2447 3138 2447 3378 
+Q 2447 3559 2369 3726 
+Q 2291 3894 2137 4001 
+Q 1984 4109 1759 4109 
+Q 1428 4109 1226 3896 
+Q 1025 3684 1025 3378 
+z
+M 859 1294 
+Q 859 978 986 778 
+Q 1113 578 1316 484 
+Q 1519 391 1750 391 
+Q 2063 391 2256 527 
+Q 2450 663 2542 870 
+Q 2634 1078 2634 1291 
+Q 2634 1594 2500 1792 
+Q 2366 1991 2162 2091 
+Q 1959 2191 1747 2191 
+Q 1441 2191 1244 2055 
+Q 1047 1919 953 1712 
+Q 859 1506 859 1294 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-103" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-f0" transform="translate(75.59375 0)"/>
+       <use xlink:href="#Selawik-Regular-30" transform="translate(129.5 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_27">
+    <path d="M 440.366281 250.992 
+L 450.724408 250.992 
+L 450.724408 162.37106 
+L 440.366281 162.37106 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 454.752568 250.992 
+L 465.110695 250.992 
+L 465.110695 147.811305 
+L 454.752568 147.811305 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 469.138855 250.992 
+L 479.496982 250.992 
+L 479.496982 152.187647 
+L 469.138855 152.187647 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 483.525142 250.992 
+L 493.883269 250.992 
+L 493.883269 142.677518 
+L 483.525142 142.677518 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 497.911429 250.992 
+L 508.269556 250.992 
+L 508.269556 148.568749 
+L 497.911429 148.568749 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 512.297717 250.992 
+L 522.655843 250.992 
+L 522.655843 138.385336 
+L 512.297717 138.385336 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 526.684004 250.992 
+L 537.04213 250.992 
+L 537.04213 127.6128 
+L 526.684004 127.6128 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 541.070291 250.992 
+L 551.428418 250.992 
+L 551.428418 131.48418 
+L 541.070291 131.48418 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 555.456578 250.992 
+L 565.814705 250.992 
+L 565.814705 132.409945 
+L 555.456578 132.409945 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 569.842865 250.992 
+L 580.200992 250.992 
+L 580.200992 142.593358 
+L 569.842865 142.593358 
+z
+" clip-path="url(#pc7c9fb1f7b)" style="fill: #118dff"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 433.374545 250.992 
+L 587.192727 250.992 
+" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_38">
+    <!-- 1,288 -->
+    <g style="fill: #252423" transform="translate(564.092788 137.804539) scale(0.085 -0.085)">
+     <defs>
+      <path id="Selawik-Bold-f0" d="M 3372 1250 
+Q 3372 853 3183 554 
+Q 2994 256 2653 92 
+Q 2313 -72 1853 -72 
+Q 1391 -72 1044 92 
+Q 697 256 505 554 
+Q 313 853 313 1250 
+Q 313 1641 567 1961 
+Q 822 2281 1238 2425 
+Q 909 2584 709 2853 
+Q 509 3122 509 3406 
+Q 509 3928 878 4242 
+Q 1247 4556 1856 4556 
+Q 2453 4556 2815 4242 
+Q 3178 3928 3178 3406 
+Q 3178 3128 2989 2859 
+Q 2800 2591 2484 2425 
+Q 2884 2281 3128 1957 
+Q 3372 1634 3372 1250 
+z
+M 1425 3378 
+Q 1425 3172 1548 3048 
+Q 1672 2925 1872 2925 
+Q 2059 2925 2171 3048 
+Q 2284 3172 2284 3378 
+Q 2284 3581 2173 3704 
+Q 2063 3828 1878 3828 
+Q 1672 3828 1548 3704 
+Q 1425 3581 1425 3378 
+z
+M 1259 1294 
+Q 1259 1013 1426 842 
+Q 1594 672 1869 672 
+Q 2144 672 2308 840 
+Q 2472 1009 2472 1291 
+Q 2472 1559 2306 1718 
+Q 2141 1878 1866 1878 
+Q 1591 1878 1425 1718 
+Q 1259 1559 1259 1294 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Bold-e9"/>
+     <use xlink:href="#Selawik-Bold-fe" transform="translate(57.515625 0)"/>
+     <use xlink:href="#Selawik-Bold-ea" transform="translate(84.609375 0)"/>
+     <use xlink:href="#Selawik-Bold-f0" transform="translate(142.125 0)"/>
+     <use xlink:href="#Selawik-Bold-f0" transform="translate(199.640625 0)"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <!-- 2024 vs 2015: +22% -->
+    <g style="fill: #605e5c" transform="translate(433.374545 87.267982) scale(0.085 -0.085)">
+     <use xlink:href="#Selawik-Regular-ea"/>
+     <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+     <use xlink:href="#Selawik-Regular-ec" transform="translate(161.71875 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(215.625 0)"/>
+     <use xlink:href="#Selawik-Regular-d8" transform="translate(243.015625 0)"/>
+     <use xlink:href="#Selawik-Regular-c4" transform="translate(290.921875 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(333.359375 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(360.75 0)"/>
+     <use xlink:href="#Selawik-Regular-e8" transform="translate(414.65625 0)"/>
+     <use xlink:href="#Selawik-Regular-e9" transform="translate(468.5625 0)"/>
+     <use xlink:href="#Selawik-Regular-ed" transform="translate(522.46875 0)"/>
+     <use xlink:href="#Selawik-Regular-fd" transform="translate(576.375 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(598.0625 0)"/>
+     <use xlink:href="#Selawik-Regular-132" transform="translate(625.453125 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(693.859375 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(747.765625 0)"/>
+     <use xlink:href="#Selawik-Regular-130" transform="translate(801.671875 0)"/>
+    </g>
+   </g>
+   <g id="text_40">
+    <!-- Pedestrians -->
+    <g style="fill: #252423" transform="translate(433.374545 76.768) scale(0.105 -0.105)">
+     <defs>
+      <path id="Selawik-Bold-84" d="M 3850 119 
+L 2850 -122 
+Q 2781 28 2726 186 
+Q 2672 344 2638 506 
+Q 2391 -72 1678 -72 
+Q 928 -72 576 351 
+Q 225 775 225 1475 
+Q 225 1969 426 2339 
+Q 628 2709 993 2915 
+Q 1359 3122 1847 3122 
+Q 2234 3122 2581 2906 
+L 2581 4741 
+L 3547 4741 
+L 3547 1406 
+Q 3547 1063 3587 842 
+Q 3628 622 3697 459 
+Q 3766 297 3850 119 
+z
+M 1234 1509 
+Q 1234 1122 1382 911 
+Q 1531 700 1803 700 
+Q 2184 700 2381 922 
+Q 2578 1144 2578 1541 
+L 2581 1534 
+L 2581 2166 
+Q 2269 2359 1888 2359 
+Q 1575 2359 1404 2137 
+Q 1234 1916 1234 1509 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-ca" d="M 2350 -56 
+Q 2250 -66 2120 -70 
+Q 1991 -75 1938 -75 
+Q 1247 -75 948 167 
+Q 650 409 650 853 
+L 650 2316 
+L 128 2316 
+L 134 3041 
+L 650 3041 
+L 650 4134 
+L 1609 4134 
+L 1609 3044 
+L 2350 3044 
+L 2344 2319 
+L 1609 2319 
+L 1609 1319 
+Q 1609 1197 1642 1073 
+Q 1675 950 1773 869 
+Q 1872 788 2066 788 
+Q 2191 788 2350 809 
+L 2350 -56 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Bold-49"/>
+     <use xlink:href="#Selawik-Bold-88" transform="translate(61.421875 0)"/>
+     <use xlink:href="#Selawik-Bold-84" transform="translate(115.53125 0)"/>
+     <use xlink:href="#Selawik-Bold-88" transform="translate(177.453125 0)"/>
+     <use xlink:href="#Selawik-Bold-c4" transform="translate(231.5625 0)"/>
+     <use xlink:href="#Selawik-Bold-ca" transform="translate(275.5625 0)"/>
+     <use xlink:href="#Selawik-Bold-c0" transform="translate(314.484375 0)"/>
+     <use xlink:href="#Selawik-Bold-98" transform="translate(354.28125 0)"/>
+     <use xlink:href="#Selawik-Bold-73" transform="translate(382.703125 0)"/>
+     <use xlink:href="#Selawik-Bold-ad" transform="translate(436.515625 0)"/>
+     <use xlink:href="#Selawik-Bold-c4" transform="translate(497.015625 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_38">
+    <path d="M 630.261818 250.992 
+L 784.08 250.992 
+L 784.08 96.768 
+L 630.261818 96.768 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_10">
+     <g id="line2d_54"/>
+     <g id="text_41">
+      <!-- 2015 -->
+      <g style="fill: #605e5c" transform="translate(633.268555 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e9" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_55"/>
+     <g id="text_42">
+      <!-- 2020 -->
+      <g style="fill: #605e5c" transform="translate(705.19999 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_56"/>
+     <g id="text_43">
+      <!-- 2024 -->
+      <g style="fill: #605e5c" transform="translate(762.745139 262.180232) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+       <use xlink:href="#Selawik-Regular-ec" transform="translate(161.71875 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_23">
+     <g id="line2d_57">
+      <path d="M 630.261818 250.992 
+L 784.08 250.992 
+" clip-path="url(#pf95de3db09)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_58"/>
+     <g id="text_44">
+      <!-- 0 -->
+      <g style="fill: #605e5c" transform="translate(619.679787 254.086116) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_59">
+      <path d="M 630.261818 227.800421 
+L 784.08 227.800421 
+" clip-path="url(#pf95de3db09)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_60"/>
+     <g id="text_45">
+      <!-- 50 -->
+      <g style="fill: #605e5c" transform="translate(615.097756 230.894537) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ed"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_61">
+      <path d="M 630.261818 204.608842 
+L 784.08 204.608842 
+" clip-path="url(#pf95de3db09)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_62"/>
+     <g id="text_46">
+      <!-- 100 -->
+      <g style="fill: #605e5c" transform="translate(610.515724 207.702958) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_63">
+      <path d="M 630.261818 181.417263 
+L 784.08 181.417263 
+" clip-path="url(#pf95de3db09)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_64"/>
+     <g id="text_47">
+      <!-- 150 -->
+      <g style="fill: #605e5c" transform="translate(610.515724 184.511379) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-e9"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_65">
+      <path d="M 630.261818 158.225684 
+L 784.08 158.225684 
+" clip-path="url(#pf95de3db09)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_66"/>
+     <g id="text_48">
+      <!-- 200 -->
+      <g style="fill: #605e5c" transform="translate(610.515724 161.3198) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_67">
+      <path d="M 630.261818 135.034105 
+L 784.08 135.034105 
+" clip-path="url(#pf95de3db09)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_68"/>
+     <g id="text_49">
+      <!-- 250 -->
+      <g style="fill: #605e5c" transform="translate(610.515724 138.128221) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-ea"/>
+       <use xlink:href="#Selawik-Regular-ed" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_69">
+      <path d="M 630.261818 111.842526 
+L 784.08 111.842526 
+" clip-path="url(#pf95de3db09)" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_70"/>
+     <g id="text_50">
+      <!-- 300 -->
+      <g style="fill: #605e5c" transform="translate(610.515724 114.936643) scale(0.085 -0.085)">
+       <use xlink:href="#Selawik-Regular-eb"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+       <use xlink:href="#Selawik-Regular-e8" transform="translate(107.8125 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_39">
+    <path d="M 637.253554 250.992 
+L 647.61168 250.992 
+L 647.61168 153.587368 
+L 637.253554 153.587368 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 651.639841 250.992 
+L 661.997968 250.992 
+L 661.997968 151.732042 
+L 651.639841 151.732042 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 666.026128 250.992 
+L 676.384255 250.992 
+L 676.384255 156.834189 
+L 666.026128 156.834189 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 680.412415 250.992 
+L 690.770542 250.992 
+L 690.770542 158.225684 
+L 680.412415 158.225684 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 694.798702 250.992 
+L 705.156829 250.992 
+L 705.156829 157.761853 
+L 694.798702 157.761853 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 709.184989 250.992 
+L 719.543116 250.992 
+L 719.543116 142.919242 
+L 709.184989 142.919242 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 723.571276 250.992 
+L 733.929403 250.992 
+L 733.929403 162.400168 
+L 723.571276 162.400168 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 737.957564 250.992 
+L 748.31569 250.992 
+L 748.31569 139.208589 
+L 737.957564 139.208589 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 752.343851 250.992 
+L 762.701977 250.992 
+L 762.701977 127.6128 
+L 752.343851 127.6128 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #7dbfff"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 766.730138 250.992 
+L 777.088264 250.992 
+L 777.088264 129.468126 
+L 766.730138 129.468126 
+z
+" clip-path="url(#pf95de3db09)" style="fill: #118dff"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 630.261818 250.992 
+L 784.08 250.992 
+" style="fill: none; stroke: #e1dfdd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_51">
+    <!-- 262 -->
+    <g style="fill: #252423" transform="translate(764.575959 124.679308) scale(0.085 -0.085)">
+     <use xlink:href="#Selawik-Bold-ea"/>
+     <use xlink:href="#Selawik-Bold-ee" transform="translate(57.515625 0)"/>
+     <use xlink:href="#Selawik-Bold-ea" transform="translate(115.03125 0)"/>
+    </g>
+   </g>
+   <g id="text_52">
+    <!-- 2024 vs 2015: +25% -->
+    <g style="fill: #605e5c" transform="translate(630.261818 87.267982) scale(0.085 -0.085)">
+     <use xlink:href="#Selawik-Regular-ea"/>
+     <use xlink:href="#Selawik-Regular-e8" transform="translate(53.90625 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(107.8125 0)"/>
+     <use xlink:href="#Selawik-Regular-ec" transform="translate(161.71875 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(215.625 0)"/>
+     <use xlink:href="#Selawik-Regular-d8" transform="translate(243.015625 0)"/>
+     <use xlink:href="#Selawik-Regular-c4" transform="translate(290.921875 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(333.359375 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(360.75 0)"/>
+     <use xlink:href="#Selawik-Regular-e8" transform="translate(414.65625 0)"/>
+     <use xlink:href="#Selawik-Regular-e9" transform="translate(468.5625 0)"/>
+     <use xlink:href="#Selawik-Regular-ed" transform="translate(522.46875 0)"/>
+     <use xlink:href="#Selawik-Regular-fd" transform="translate(576.375 0)"/>
+     <use xlink:href="#Selawik-Regular-11f" transform="translate(598.0625 0)"/>
+     <use xlink:href="#Selawik-Regular-132" transform="translate(625.453125 0)"/>
+     <use xlink:href="#Selawik-Regular-ea" transform="translate(693.859375 0)"/>
+     <use xlink:href="#Selawik-Regular-ed" transform="translate(747.765625 0)"/>
+     <use xlink:href="#Selawik-Regular-130" transform="translate(801.671875 0)"/>
+    </g>
+   </g>
+   <g id="text_53">
+    <!-- Cyclists -->
+    <g style="fill: #252423" transform="translate(630.261818 76.768) scale(0.105 -0.105)">
+     <defs>
+      <path id="Selawik-Bold-d" d="M 3722 172 
+Q 3394 47 3048 -8 
+Q 2703 -63 2375 -63 
+Q 1353 -63 792 537 
+Q 231 1138 231 2228 
+Q 231 3341 870 3952 
+Q 1509 4563 2675 4563 
+Q 3147 4563 3688 4425 
+L 3441 3534 
+Q 3131 3647 2669 3647 
+Q 1991 3647 1617 3283 
+Q 1244 2919 1244 2253 
+Q 1244 1591 1558 1228 
+Q 1872 866 2447 866 
+Q 2650 866 2929 920 
+Q 3209 975 3516 1072 
+L 3722 172 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-df" d="M 2041 -431 
+Q 1866 -775 1666 -973 
+Q 1466 -1172 1247 -1273 
+Q 1028 -1375 801 -1422 
+Q 575 -1469 344 -1506 
+L 228 -622 
+Q 625 -572 847 -461 
+Q 1069 -350 1216 -131 
+L 1272 16 
+L -13 3044 
+L 1084 3044 
+L 1691 1206 
+L 1753 963 
+L 1772 963 
+L 1834 1200 
+L 2478 3044 
+L 3463 3050 
+L 2041 -431 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-7f" d="M 2906 109 
+Q 2634 28 2339 -22 
+Q 2044 -72 1775 -72 
+Q 1044 -72 637 353 
+Q 231 778 231 1516 
+Q 231 2244 643 2684 
+Q 1056 3125 1819 3119 
+Q 2125 3125 2414 3075 
+Q 2703 3025 2897 2944 
+L 2741 2175 
+Q 2625 2216 2458 2250 
+Q 2291 2284 2078 2284 
+Q 1622 2284 1430 2089 
+Q 1238 1894 1238 1531 
+Q 1238 1125 1447 934 
+Q 1656 744 2041 744 
+Q 2225 744 2367 778 
+Q 2509 813 2684 866 
+L 2906 109 
+z
+" transform="scale(0.015625)"/>
+      <path id="Selawik-Bold-a6" d="M 1403 0 
+L 416 0 
+L 416 4738 
+L 1403 4738 
+L 1403 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Selawik-Bold-d"/>
+     <use xlink:href="#Selawik-Bold-df" transform="translate(62.40625 0)"/>
+     <use xlink:href="#Selawik-Bold-7f" transform="translate(116.21875 0)"/>
+     <use xlink:href="#Selawik-Bold-a6" transform="translate(164.21875 0)"/>
+     <use xlink:href="#Selawik-Bold-98" transform="translate(192.640625 0)"/>
+     <use xlink:href="#Selawik-Bold-c4" transform="translate(221.0625 0)"/>
+     <use xlink:href="#Selawik-Bold-ca" transform="translate(265.0625 0)"/>
+     <use xlink:href="#Selawik-Bold-c4" transform="translate(303.984375 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="patch_50">
+   <path d="M 2.376 301.4928 
+L 789.624 301.4928 
+L 789.624 0.9072 
+L 2.376 0.9072 
+L 2.376 301.4928 
+z
+" style="fill: none; stroke: #e1dfdd; stroke-linejoin: miter"/>
+  </g>
+  <g id="text_54">
+   <!-- Rural road deaths by person type, 2015-2024 -->
+   <g style="fill: #252423" transform="translate(15.84 19.710156) scale(0.13 -0.13)">
+    <defs>
+     <path id="Selawik-Bold-4c" d="M 1497 0 
+L 513 0 
+L 513 4481 
+L 2269 4481 
+Q 2928 4481 3337 4143 
+Q 3747 3806 3744 3159 
+Q 3741 2766 3519 2483 
+Q 3297 2200 2934 2053 
+L 4272 0 
+L 3125 0 
+L 1903 1913 
+L 1497 1913 
+L 1497 0 
+z
+M 1494 3753 
+L 1494 2447 
+L 1884 2447 
+Q 2284 2447 2504 2619 
+Q 2725 2791 2722 3103 
+Q 2719 3428 2517 3597 
+Q 2316 3766 1953 3756 
+L 1494 3753 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-cf" d="M 3759 119 
+L 2759 -122 
+Q 2700 9 2651 145 
+Q 2603 281 2566 422 
+Q 2531 334 2418 218 
+Q 2306 103 2106 17 
+Q 1906 -69 1603 -69 
+Q 1128 -69 858 111 
+Q 588 291 477 570 
+Q 366 850 366 1150 
+L 366 3041 
+L 1353 3041 
+L 1353 1309 
+Q 1353 1147 1393 997 
+Q 1434 847 1551 751 
+Q 1669 656 1903 656 
+Q 2156 656 2323 875 
+Q 2491 1094 2491 1413 
+L 2491 3044 
+L 3456 3044 
+L 3456 1406 
+Q 3456 1063 3497 842 
+Q 3538 622 3606 459 
+Q 3675 297 3759 119 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-11f" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-b3" d="M 3684 1506 
+Q 3684 1028 3468 672 
+Q 3253 316 2864 119 
+Q 2475 -78 1950 -78 
+Q 1431 -78 1043 119 
+Q 656 316 442 672 
+Q 228 1028 228 1506 
+Q 228 1994 442 2356 
+Q 656 2719 1043 2919 
+Q 1431 3119 1950 3119 
+Q 2478 3119 2870 2919 
+Q 3263 2719 3477 2356 
+Q 3691 1994 3684 1506 
+z
+M 1194 1506 
+Q 1191 1156 1402 942 
+Q 1613 728 1963 728 
+Q 2297 728 2505 942 
+Q 2713 1156 2719 1506 
+Q 2706 1859 2500 2070 
+Q 2294 2281 1963 2281 
+Q 1619 2281 1408 2070 
+Q 1197 1859 1194 1506 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-96" d="M 1403 0 
+L 416 0 
+L 416 4741 
+L 1403 4741 
+L 1403 2803 
+Q 1753 3125 2303 3125 
+Q 2703 3125 2965 2965 
+Q 3228 2806 3358 2531 
+Q 3488 2256 3488 1906 
+L 3488 0 
+L 2506 0 
+L 2506 1638 
+Q 2506 1825 2453 1989 
+Q 2400 2153 2273 2253 
+Q 2147 2353 1925 2353 
+Q 1634 2353 1403 2147 
+L 1403 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-7e" d="M 1266 0 
+L 422 0 
+L 416 4738 
+L 1403 4738 
+L 1403 2703 
+Q 1531 2856 1775 2990 
+Q 2019 3125 2331 3125 
+Q 2763 3125 3080 2933 
+Q 3397 2741 3570 2395 
+Q 3744 2050 3744 1591 
+Q 3744 834 3362 381 
+Q 2981 -72 2234 -72 
+Q 1863 -72 1678 87 
+Q 1494 247 1419 475 
+L 1266 0 
+z
+M 1406 1588 
+Q 1406 1159 1592 923 
+Q 1778 688 2116 688 
+Q 2409 688 2568 925 
+Q 2728 1163 2728 1597 
+Q 2728 1966 2545 2166 
+Q 2363 2366 2028 2363 
+Q 1669 2359 1403 2097 
+L 1403 1931 
+L 1406 1588 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-bd" d="M 1403 -1469 
+L 416 -1469 
+L 422 3044 
+L 1269 3044 
+L 1381 2688 
+Q 1684 3125 2331 3125 
+Q 3003 3125 3373 2723 
+Q 3744 2322 3744 1591 
+Q 3744 834 3362 381 
+Q 2981 -72 2234 -72 
+Q 1844 -72 1658 104 
+Q 1472 281 1403 525 
+L 1403 -1469 
+z
+M 1406 1588 
+Q 1406 1159 1592 923 
+Q 1778 688 2116 688 
+Q 2409 688 2568 925 
+Q 2728 1163 2728 1597 
+Q 2728 1966 2545 2166 
+Q 2363 2366 2028 2363 
+Q 1619 2359 1403 2131 
+L 1403 1931 
+L 1406 1588 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-e8" d="M 3375 2256 
+Q 3375 1141 2962 528 
+Q 2550 -84 1800 -84 
+Q 1088 -84 697 500 
+Q 306 1084 306 2147 
+Q 306 3297 722 3926 
+Q 1138 4556 1897 4556 
+L 1897 4550 
+Q 2603 4550 2989 3950 
+Q 3375 3350 3375 2256 
+z
+M 1291 2169 
+Q 1291 1503 1439 1139 
+Q 1588 775 1853 775 
+L 1856 778 
+Q 2113 778 2253 1151 
+Q 2394 1525 2394 2206 
+Q 2394 2916 2258 3306 
+Q 2122 3697 1875 3697 
+Q 1597 3697 1444 3297 
+Q 1291 2897 1291 2169 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-ed" d="M 3209 1378 
+Q 3209 963 3073 688 
+Q 2938 413 2713 252 
+Q 2488 91 2213 19 
+Q 1938 -53 1655 -62 
+Q 1372 -72 1122 -40 
+Q 872 -9 698 36 
+Q 525 81 469 113 
+L 566 897 
+Q 641 869 836 825 
+Q 1031 781 1276 761 
+Q 1522 741 1750 778 
+Q 1978 816 2128 947 
+Q 2278 1078 2278 1338 
+Q 2278 1656 2036 1807 
+Q 1794 1959 1413 1959 
+Q 1328 1959 1178 1954 
+Q 1028 1950 875 1940 
+Q 722 1931 628 1922 
+L 719 4481 
+L 2978 4481 
+L 2963 3613 
+L 1603 3613 
+L 1572 2766 
+Q 1616 2769 1708 2775 
+Q 1800 2781 1828 2781 
+Q 2306 2781 2611 2597 
+Q 2916 2413 3062 2095 
+Q 3209 1778 3209 1378 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-113" d="M 2156 1272 
+L 447 1272 
+L 447 1959 
+L 2156 1959 
+L 2156 1272 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Bold-ec" d="M 3081 -3 
+L 2253 -3 
+L 2253 800 
+L 147 800 
+L 147 1338 
+L 2216 4481 
+L 3081 4478 
+L 3081 1534 
+L 3531 1534 
+L 3531 800 
+L 3081 800 
+L 3081 -3 
+z
+M 2253 3088 
+L 1222 1534 
+L 2253 1534 
+L 2253 3088 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Selawik-Bold-4c"/>
+    <use xlink:href="#Selawik-Bold-cf" transform="translate(65.28125 0)"/>
+    <use xlink:href="#Selawik-Bold-c0" transform="translate(125.78125 0)"/>
+    <use xlink:href="#Selawik-Bold-73" transform="translate(165.578125 0)"/>
+    <use xlink:href="#Selawik-Bold-a6" transform="translate(219.390625 0)"/>
+    <use xlink:href="#Selawik-Bold-11f" transform="translate(247.8125 0)"/>
+    <use xlink:href="#Selawik-Bold-c0" transform="translate(275.40625 0)"/>
+    <use xlink:href="#Selawik-Bold-b3" transform="translate(315.203125 0)"/>
+    <use xlink:href="#Selawik-Bold-73" transform="translate(376.34375 0)"/>
+    <use xlink:href="#Selawik-Bold-84" transform="translate(430.15625 0)"/>
+    <use xlink:href="#Selawik-Bold-11f" transform="translate(492.078125 0)"/>
+    <use xlink:href="#Selawik-Bold-84" transform="translate(519.671875 0)"/>
+    <use xlink:href="#Selawik-Bold-88" transform="translate(581.59375 0)"/>
+    <use xlink:href="#Selawik-Bold-73" transform="translate(635.703125 0)"/>
+    <use xlink:href="#Selawik-Bold-ca" transform="translate(689.515625 0)"/>
+    <use xlink:href="#Selawik-Bold-96" transform="translate(728.4375 0)"/>
+    <use xlink:href="#Selawik-Bold-c4" transform="translate(788.640625 0)"/>
+    <use xlink:href="#Selawik-Bold-11f" transform="translate(832.640625 0)"/>
+    <use xlink:href="#Selawik-Bold-7e" transform="translate(860.234375 0)"/>
+    <use xlink:href="#Selawik-Bold-df" transform="translate(922.25 0)"/>
+    <use xlink:href="#Selawik-Bold-11f" transform="translate(976.0625 0)"/>
+    <use xlink:href="#Selawik-Bold-bd" transform="translate(1003.65625 0)"/>
+    <use xlink:href="#Selawik-Bold-88" transform="translate(1065.671875 0)"/>
+    <use xlink:href="#Selawik-Bold-c0" transform="translate(1119.78125 0)"/>
+    <use xlink:href="#Selawik-Bold-c4" transform="translate(1159.578125 0)"/>
+    <use xlink:href="#Selawik-Bold-b3" transform="translate(1203.578125 0)"/>
+    <use xlink:href="#Selawik-Bold-ad" transform="translate(1264.71875 0)"/>
+    <use xlink:href="#Selawik-Bold-11f" transform="translate(1325.21875 0)"/>
+    <use xlink:href="#Selawik-Bold-ca" transform="translate(1352.8125 0)"/>
+    <use xlink:href="#Selawik-Bold-df" transform="translate(1391.734375 0)"/>
+    <use xlink:href="#Selawik-Bold-bd" transform="translate(1445.546875 0)"/>
+    <use xlink:href="#Selawik-Bold-88" transform="translate(1507.5625 0)"/>
+    <use xlink:href="#Selawik-Bold-fe" transform="translate(1561.671875 0)"/>
+    <use xlink:href="#Selawik-Bold-11f" transform="translate(1588.765625 0)"/>
+    <use xlink:href="#Selawik-Bold-ea" transform="translate(1616.359375 0)"/>
+    <use xlink:href="#Selawik-Bold-e8" transform="translate(1673.875 0)"/>
+    <use xlink:href="#Selawik-Bold-e9" transform="translate(1731.390625 0)"/>
+    <use xlink:href="#Selawik-Bold-ed" transform="translate(1788.90625 0)"/>
+    <use xlink:href="#Selawik-Bold-113" transform="translate(1846.421875 0)"/>
+    <use xlink:href="#Selawik-Bold-ea" transform="translate(1886.859375 0)"/>
+    <use xlink:href="#Selawik-Bold-e8" transform="translate(1944.375 0)"/>
+    <use xlink:href="#Selawik-Bold-ea" transform="translate(2001.890625 0)"/>
+    <use xlink:href="#Selawik-Bold-ec" transform="translate(2059.40625 0)"/>
+   </g>
+  </g>
+  <g id="text_55">
+   <!-- Each panel has its own scale; 2024 bar highlighted -->
+   <g style="fill: #605e5c" transform="translate(15.84 36.907031) scale(0.09 -0.09)">
+    <defs>
+     <path id="Selawik-Regular-16" d="M 2963 0 
+L 588 0 
+L 588 4481 
+L 2863 4481 
+L 2863 4006 
+L 1113 4006 
+L 1113 2516 
+L 2669 2516 
+L 2669 2044 
+L 1113 2044 
+L 1113 475 
+L 2963 475 
+L 2963 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-73" d="M 3084 88 
+L 2631 -122 
+Q 2547 28 2481 183 
+Q 2416 338 2372 497 
+Q 2319 334 2164 206 
+Q 2009 78 1800 3 
+Q 1591 -72 1369 -72 
+Q 1072 -72 825 22 
+Q 578 116 431 316 
+Q 284 516 284 831 
+Q 284 1278 611 1534 
+Q 938 1791 1478 1791 
+Q 1909 1791 2300 1569 
+L 2300 1888 
+Q 2300 2272 2120 2439 
+Q 1941 2606 1606 2606 
+Q 1488 2606 1242 2586 
+Q 997 2566 772 2531 
+L 684 3044 
+Q 1019 3081 1253 3103 
+Q 1488 3125 1647 3125 
+Q 2797 3125 2806 1931 
+L 2813 1031 
+Q 2816 781 2889 545 
+Q 2963 309 3084 88 
+z
+M 822 859 
+Q 825 659 1008 532 
+Q 1191 406 1484 406 
+Q 1853 406 2076 593 
+Q 2300 781 2300 1091 
+L 2300 1119 
+Q 2147 1203 1956 1253 
+Q 1766 1303 1556 1303 
+Q 1225 1303 1022 1186 
+Q 819 1069 822 859 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-7f" d="M 2875 141 
+Q 2619 44 2342 -14 
+Q 2066 -72 1806 -72 
+Q 1091 -72 694 353 
+Q 297 778 297 1516 
+Q 297 2244 700 2684 
+Q 1103 3125 1850 3119 
+Q 2113 3125 2359 3075 
+Q 2606 3025 2772 2944 
+L 2647 2425 
+Q 2506 2488 2306 2542 
+Q 2106 2597 1853 2597 
+Q 1316 2597 1089 2320 
+Q 863 2044 863 1531 
+Q 863 966 1136 698 
+Q 1409 431 1909 431 
+Q 2141 431 2319 482 
+Q 2497 534 2716 616 
+L 2875 141 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-96" d="M 1028 0 
+L 516 0 
+L 516 4741 
+L 1028 4741 
+L 1028 2772 
+Q 1384 3125 1959 3125 
+Q 2372 3125 2640 2965 
+Q 2909 2806 3042 2531 
+Q 3175 2256 3175 1906 
+L 3175 0 
+L 2663 0 
+L 2663 1763 
+Q 2663 1991 2598 2189 
+Q 2534 2388 2381 2511 
+Q 2228 2634 1956 2634 
+Q 1681 2634 1443 2536 
+Q 1206 2438 1028 2275 
+L 1028 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-bd" d="M 1038 -1469 
+L 522 -1469 
+L 522 3044 
+L 903 3044 
+L 1025 2656 
+Q 1234 2881 1511 3003 
+Q 1788 3125 2097 3125 
+Q 2750 3125 3108 2723 
+Q 3466 2322 3466 1591 
+Q 3466 834 3091 381 
+Q 2716 -72 1984 -72 
+Q 1556 -72 1340 86 
+Q 1125 244 1038 472 
+L 1038 -1469 
+z
+M 2028 2613 
+Q 1534 2609 1038 2297 
+L 1038 1306 
+Q 1038 1025 1141 848 
+Q 1244 672 1400 576 
+Q 1556 481 1723 443 
+Q 1891 406 2022 406 
+Q 2394 406 2655 686 
+Q 2916 966 2916 1597 
+Q 2916 2084 2684 2350 
+Q 2453 2616 2028 2613 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-ad" d="M 1028 0 
+L 516 0 
+L 522 3044 
+L 900 3044 
+L 997 2741 
+Q 1359 3125 1959 3125 
+Q 2372 3125 2640 2965 
+Q 2909 2806 3042 2531 
+Q 3175 2256 3175 1906 
+L 3175 0 
+L 2663 0 
+L 2663 1763 
+Q 2663 1991 2598 2189 
+Q 2534 2388 2381 2513 
+Q 2228 2638 1956 2638 
+Q 1681 2634 1447 2536 
+Q 1213 2438 1034 2272 
+L 1028 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-88" d="M 3031 147 
+Q 2884 84 2678 34 
+Q 2472 -16 2253 -44 
+Q 2034 -72 1850 -72 
+Q 1141 -72 720 311 
+Q 300 694 300 1541 
+Q 300 2319 701 2728 
+Q 1103 3138 1819 3138 
+Q 2234 3138 2506 2959 
+Q 2778 2781 2917 2497 
+Q 3056 2213 3078 1886 
+Q 3100 1559 3016 1266 
+L 841 1250 
+Q 978 400 1959 400 
+Q 2163 400 2398 445 
+Q 2634 491 2872 584 
+L 3031 147 
+z
+M 1766 2647 
+Q 1288 2650 1072 2379 
+Q 856 2109 825 1700 
+L 2516 1716 
+Q 2538 1925 2475 2139 
+Q 2413 2353 2242 2498 
+Q 2072 2644 1766 2647 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-a6" d="M 1031 0 
+L 519 0 
+L 519 4738 
+L 1031 4738 
+L 1031 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-98" d="M 1131 4347 
+Q 1131 4197 1031 4097 
+Q 931 3997 784 3997 
+Q 634 3997 534 4097 
+Q 434 4197 434 4347 
+Q 434 4494 534 4594 
+Q 634 4694 784 4694 
+Q 931 4694 1031 4594 
+Q 1131 4494 1131 4347 
+z
+M 1031 0 
+L 519 0 
+L 519 3044 
+L 1031 3044 
+L 1031 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-ca" d="M 2000 -56 
+Q 1900 -66 1770 -70 
+Q 1641 -75 1588 -75 
+Q 1288 -75 1086 53 
+Q 884 181 784 393 
+Q 684 606 684 853 
+L 684 2588 
+L 134 2588 
+L 134 3041 
+L 684 3041 
+L 684 4134 
+L 1166 4134 
+L 1166 3041 
+L 2003 3041 
+L 2003 2588 
+L 1166 2588 
+L 1166 944 
+Q 1166 747 1298 564 
+Q 1431 381 1716 381 
+Q 1841 381 2000 403 
+L 2000 -56 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-b3" d="M 3441 1509 
+Q 3441 1031 3248 673 
+Q 3056 316 2707 119 
+Q 2359 -78 1891 -78 
+Q 1413 -78 1053 119 
+Q 694 316 495 673 
+Q 297 1031 297 1509 
+Q 297 1994 495 2356 
+Q 694 2719 1053 2919 
+Q 1413 3119 1891 3119 
+Q 2363 3119 2713 2919 
+Q 3063 2719 3255 2356 
+Q 3447 1994 3441 1509 
+z
+M 841 1509 
+Q 838 1016 1125 716 
+Q 1413 416 1891 416 
+Q 2338 416 2613 716 
+Q 2888 1016 2897 1509 
+Q 2884 2013 2609 2319 
+Q 2334 2625 1891 2625 
+Q 1419 2625 1131 2319 
+Q 844 2013 841 1509 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-d9" d="M 1556 -16 
+L 1044 -16 
+L 75 3044 
+L 597 3044 
+L 1259 869 
+Q 1266 844 1281 737 
+Q 1297 631 1300 588 
+L 1325 588 
+Q 1328 622 1348 733 
+Q 1369 844 1381 884 
+L 2106 3047 
+L 2575 3047 
+L 3250 872 
+Q 3259 844 3276 736 
+Q 3294 628 3297 584 
+L 3322 584 
+Q 3325 616 3345 720 
+Q 3366 825 3378 866 
+L 4028 3044 
+L 4553 3044 
+L 3594 -16 
+L 3063 -16 
+L 2400 2041 
+Q 2388 2088 2364 2195 
+Q 2341 2303 2338 2331 
+L 2325 2331 
+Q 2322 2303 2297 2195 
+Q 2272 2088 2256 2044 
+L 1556 -16 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-108" d="M 1088 2894 
+Q 1088 2734 977 2623 
+Q 866 2513 706 2513 
+Q 550 2513 436 2623 
+Q 322 2734 322 2894 
+Q 322 3053 436 3161 
+Q 550 3269 706 3269 
+Q 866 3269 977 3161 
+Q 1088 3053 1088 2894 
+z
+M 1050 713 
+Q 1050 328 915 -92 
+Q 781 -513 550 -825 
+L 122 -606 
+Q 259 -350 339 -148 
+Q 419 53 453 254 
+Q 488 456 488 713 
+L 1050 713 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-7e" d="M 900 0 
+L 528 0 
+L 522 4738 
+L 1038 4738 
+L 1038 2672 
+Q 1459 3125 2097 3125 
+Q 2781 3125 3123 2703 
+Q 3466 2281 3466 1591 
+Q 3466 834 3091 381 
+Q 2716 -72 1984 -72 
+Q 1566 -72 1350 79 
+Q 1134 231 1047 450 
+L 900 0 
+z
+M 1041 1306 
+Q 1041 1025 1142 848 
+Q 1244 672 1400 576 
+Q 1556 481 1723 443 
+Q 1891 406 2022 406 
+Q 2394 406 2655 686 
+Q 2916 966 2916 1597 
+Q 2916 2041 2687 2328 
+Q 2459 2616 2028 2613 
+Q 1822 2613 1667 2584 
+Q 1513 2556 1366 2489 
+Q 1219 2422 1038 2300 
+L 1038 1713 
+L 1041 1306 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-c0" d="M 1034 0 
+L 522 0 
+L 522 3044 
+L 909 3044 
+L 978 2750 
+Q 1388 3225 2097 3094 
+L 2009 2606 
+Q 1406 2669 1034 2316 
+L 1034 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-92" d="M 3250 0 
+Q 3250 -531 2994 -862 
+Q 2738 -1194 2270 -1348 
+Q 1803 -1503 1172 -1506 
+L 1113 -1025 
+Q 1709 -994 2065 -859 
+Q 2422 -725 2580 -470 
+Q 2738 -216 2738 172 
+Q 2738 200 2738 384 
+Q 2438 -72 1678 -72 
+Q 1266 -72 958 120 
+Q 650 313 479 661 
+Q 309 1009 309 1475 
+Q 309 1972 500 2342 
+Q 691 2713 1037 2919 
+Q 1384 3125 1847 3125 
+Q 2347 3125 2797 2750 
+L 2866 3044 
+L 3250 3044 
+L 3250 0 
+z
+M 859 1509 
+Q 859 1259 954 1007 
+Q 1050 756 1258 587 
+Q 1466 419 1803 419 
+Q 2263 419 2500 681 
+Q 2738 944 2738 1416 
+L 2741 1413 
+Q 2741 1694 2741 1947 
+Q 2741 2200 2741 2350 
+Q 2528 2538 2292 2598 
+Q 2056 2659 1888 2659 
+Q 1413 2659 1136 2353 
+Q 859 2047 859 1509 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-84" d="M 3522 88 
+L 3069 -122 
+Q 2984 28 2917 187 
+Q 2850 347 2806 509 
+Q 2538 -72 1678 -72 
+Q 1266 -72 958 120 
+Q 650 313 479 661 
+Q 309 1009 309 1475 
+Q 309 1972 500 2342 
+Q 691 2713 1037 2919 
+Q 1384 3125 1847 3125 
+Q 2322 3125 2738 2800 
+L 2738 4741 
+L 3250 4741 
+L 3250 1031 
+Q 3253 781 3326 545 
+Q 3400 309 3522 88 
+z
+M 859 1509 
+Q 859 1259 954 1007 
+Q 1050 756 1258 587 
+Q 1466 419 1803 419 
+Q 2263 419 2500 681 
+Q 2738 944 2738 1416 
+L 2738 2353 
+Q 2525 2538 2290 2598 
+Q 2056 2659 1888 2659 
+Q 1413 2659 1136 2353 
+Q 859 2047 859 1509 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Selawik-Regular-16"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(50.59375 0)"/>
+    <use xlink:href="#Selawik-Regular-7f" transform="translate(101.46875 0)"/>
+    <use xlink:href="#Selawik-Regular-96" transform="translate(147.65625 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(204.25 0)"/>
+    <use xlink:href="#Selawik-Regular-bd" transform="translate(231.640625 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(290.4375 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(341.3125 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(397.90625 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(450.203125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(474.421875 0)"/>
+    <use xlink:href="#Selawik-Regular-96" transform="translate(501.8125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(558.40625 0)"/>
+    <use xlink:href="#Selawik-Regular-c4" transform="translate(609.28125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(651.71875 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(679.109375 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(703.328125 0)"/>
+    <use xlink:href="#Selawik-Regular-c4" transform="translate(737.21875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(779.65625 0)"/>
+    <use xlink:href="#Selawik-Regular-b3" transform="translate(807.046875 0)"/>
+    <use xlink:href="#Selawik-Regular-d9" transform="translate(865.640625 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(937.90625 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(994.5 0)"/>
+    <use xlink:href="#Selawik-Regular-c4" transform="translate(1021.890625 0)"/>
+    <use xlink:href="#Selawik-Regular-7f" transform="translate(1064.328125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(1110.515625 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(1161.390625 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(1185.609375 0)"/>
+    <use xlink:href="#Selawik-Regular-108" transform="translate(1237.90625 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1259.59375 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(1286.984375 0)"/>
+    <use xlink:href="#Selawik-Regular-e8" transform="translate(1340.890625 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(1394.796875 0)"/>
+    <use xlink:href="#Selawik-Regular-ec" transform="translate(1448.703125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1502.609375 0)"/>
+    <use xlink:href="#Selawik-Regular-7e" transform="translate(1530 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(1588.796875 0)"/>
+    <use xlink:href="#Selawik-Regular-c0" transform="translate(1639.671875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1674.4375 0)"/>
+    <use xlink:href="#Selawik-Regular-96" transform="translate(1701.828125 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(1758.421875 0)"/>
+    <use xlink:href="#Selawik-Regular-92" transform="translate(1782.640625 0)"/>
+    <use xlink:href="#Selawik-Regular-96" transform="translate(1841.53125 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(1898.125 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(1922.34375 0)"/>
+    <use xlink:href="#Selawik-Regular-92" transform="translate(1946.5625 0)"/>
+    <use xlink:href="#Selawik-Regular-96" transform="translate(2005.453125 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(2062.046875 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(2095.9375 0)"/>
+    <use xlink:href="#Selawik-Regular-84" transform="translate(2148.234375 0)"/>
+   </g>
+  </g>
+  <g id="text_56">
+   <!-- Source: NHTSA FARS 2015-2024 (2024 = Annual Report File); U.S. Census Bureau 2020 urban areas and population estimates. -->
+   <g style="fill: #a19f9d" transform="translate(15.84 291.5136) scale(0.075 -0.075)">
+    <defs>
+     <path id="Selawik-Regular-50" d="M 3063 1200 
+Q 3059 631 2668 300 
+Q 2278 -31 1566 -34 
+Q 1225 -38 925 43 
+Q 625 125 250 306 
+L 453 772 
+Q 822 584 1075 517 
+Q 1328 450 1566 450 
+Q 2088 450 2295 672 
+Q 2503 894 2503 1206 
+Q 2503 1450 2390 1608 
+Q 2278 1766 2092 1872 
+Q 1906 1978 1684 2065 
+Q 1463 2153 1241 2251 
+Q 1019 2350 833 2489 
+Q 647 2628 536 2842 
+Q 425 3056 425 3375 
+Q 428 3781 618 4034 
+Q 809 4288 1136 4405 
+Q 1463 4522 1872 4522 
+Q 2181 4522 2442 4462 
+Q 2703 4403 2931 4313 
+L 2728 3822 
+Q 2575 3878 2381 3942 
+Q 2188 4006 1881 4006 
+Q 1644 4006 1433 3950 
+Q 1222 3894 1090 3762 
+Q 959 3631 956 3406 
+Q 953 3166 1104 3012 
+Q 1256 2859 1497 2746 
+Q 1738 2634 2008 2518 
+Q 2278 2403 2518 2242 
+Q 2759 2081 2912 1832 
+Q 3066 1584 3063 1200 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-cf" d="M 3378 88 
+L 2925 -122 
+Q 2844 25 2778 178 
+Q 2713 331 2669 491 
+Q 2625 375 2498 245 
+Q 2372 116 2162 23 
+Q 1953 -69 1666 -69 
+Q 1200 -69 934 111 
+Q 669 291 559 570 
+Q 450 850 450 1150 
+L 450 3041 
+L 963 3041 
+L 963 1309 
+Q 963 1084 1022 876 
+Q 1081 669 1256 537 
+Q 1431 406 1778 406 
+Q 1984 406 2170 470 
+Q 2356 534 2475 692 
+Q 2594 850 2594 1131 
+L 2594 3044 
+L 3106 3044 
+L 3106 1031 
+Q 3109 781 3182 545 
+Q 3256 309 3378 88 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-39" d="M 1106 0 
+L 588 0 
+L 588 4484 
+L 1269 4484 
+L 3513 969 
+Q 3556 900 3622 772 
+Q 3688 644 3703 606 
+L 3716 606 
+Q 3700 728 3690 940 
+Q 3681 1153 3681 1325 
+L 3681 4481 
+L 4200 4481 
+L 4203 0 
+L 3559 0 
+L 1263 3578 
+Q 1222 3641 1173 3747 
+Q 1125 3853 1100 3922 
+L 1081 3922 
+Q 1091 3875 1095 3750 
+Q 1100 3625 1103 3483 
+Q 1106 3341 1106 3241 
+L 1106 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-24" d="M 1113 0 
+L 588 0 
+L 588 4481 
+L 1113 4481 
+L 1113 2453 
+L 3431 2453 
+L 3431 4481 
+L 3956 4481 
+L 3956 0 
+L 3431 0 
+L 3431 1981 
+L 1113 1981 
+L 1113 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-55" d="M 1944 0 
+L 1419 0 
+L 1419 4006 
+L 128 4006 
+L 128 4481 
+L 3238 4481 
+L 3238 4006 
+L 1944 4006 
+L 1944 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-1" d="M 659 0 
+L 75 0 
+L 1794 4481 
+L 2338 4481 
+L 4063 0 
+L 3481 0 
+L 3119 975 
+L 1013 975 
+L 659 0 
+z
+M 1972 3638 
+L 1181 1447 
+L 2944 1447 
+L 2131 3638 
+Q 2125 3663 2097 3775 
+Q 2069 3888 2059 3938 
+L 2047 3938 
+Q 2041 3891 2012 3778 
+Q 1984 3666 1972 3638 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-1f" d="M 1113 0 
+L 588 0 
+L 588 4481 
+L 2863 4481 
+L 2863 4006 
+L 1113 4006 
+L 1113 2456 
+L 2669 2456 
+L 2669 1984 
+L 1113 1984 
+L 1113 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-4c" d="M 1119 0 
+L 594 0 
+L 594 4481 
+L 1825 4481 
+Q 2506 4481 2903 4172 
+Q 3300 3863 3300 3269 
+Q 3300 2800 3047 2478 
+Q 2794 2156 2369 2013 
+L 3706 0 
+L 3031 0 
+L 1778 1913 
+Q 1741 1913 1703 1913 
+L 1119 1913 
+L 1119 0 
+z
+M 1116 4003 
+L 1116 2384 
+L 1666 2384 
+Q 2163 2384 2458 2596 
+Q 2753 2809 2753 3244 
+Q 2753 3650 2486 3828 
+Q 2219 4006 1734 4006 
+L 1116 4003 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-10f" d="M 1716 -706 
+L 1409 -956 
+Q 909 -409 686 225 
+Q 463 859 463 1716 
+Q 463 2547 680 3181 
+Q 897 3816 1378 4388 
+L 1678 4138 
+Q 1297 3591 1123 3017 
+Q 950 2444 950 1716 
+Q 950 1006 1131 432 
+Q 1313 -141 1716 -706 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-12a" d="M 3663 2325 
+L 725 2325 
+L 725 2738 
+L 3663 2738 
+L 3663 2325 
+z
+M 3663 994 
+L 725 994 
+L 725 1406 
+L 3663 1406 
+L 3663 994 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-110" d="M 256 -706 
+L 563 -956 
+Q 1063 -409 1286 225 
+Q 1509 859 1509 1716 
+Q 1509 2547 1292 3181 
+Q 1075 3816 594 4388 
+L 294 4138 
+Q 675 3591 848 3017 
+Q 1022 2444 1022 1716 
+Q 1022 1006 840 432 
+Q 659 -141 256 -706 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-5a" d="M 3866 1813 
+Q 3866 903 3456 414 
+Q 3047 -75 2163 -75 
+Q 1313 -75 920 400 
+Q 528 875 528 1741 
+L 528 4481 
+L 1053 4481 
+L 1053 1775 
+Q 1053 1128 1328 761 
+Q 1603 394 2216 394 
+Q 2816 394 3078 751 
+Q 3341 1109 3341 1728 
+L 3341 4481 
+L 3866 4481 
+L 3866 1813 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-d" d="M 3688 203 
+Q 3413 97 3030 17 
+Q 2647 -63 2278 -63 
+Q 1331 -63 811 537 
+Q 291 1138 291 2228 
+Q 291 3341 889 3952 
+Q 1488 4563 2578 4563 
+Q 2875 4563 3128 4520 
+Q 3381 4478 3591 4425 
+L 3438 3925 
+Q 3347 3956 3176 3979 
+Q 3006 4003 2836 4018 
+Q 2666 4034 2572 4038 
+Q 2034 4066 1653 3853 
+Q 1272 3641 1072 3231 
+Q 872 2822 872 2253 
+Q 872 1403 1258 923 
+Q 1644 444 2350 444 
+Q 2656 444 2957 519 
+Q 3259 594 3513 681 
+L 3688 203 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-c" d="M 3347 1288 
+Q 3347 891 3153 602 
+Q 2959 313 2631 156 
+Q 2303 0 1894 0 
+L 588 3 
+L 588 4484 
+L 1863 4484 
+Q 2206 4484 2478 4364 
+Q 2750 4244 2906 4016 
+Q 3063 3788 3063 3459 
+Q 3063 3075 2875 2795 
+Q 2688 2516 2350 2397 
+L 2350 2384 
+Q 2813 2334 3080 2037 
+Q 3347 1741 3347 1288 
+z
+M 1116 4009 
+L 1116 2563 
+L 1653 2563 
+Q 2041 2563 2278 2761 
+Q 2516 2959 2516 3356 
+Q 2516 3719 2298 3864 
+Q 2081 4009 1716 4009 
+L 1116 4009 
+z
+M 1119 2091 
+L 1119 478 
+L 1831 478 
+Q 2269 478 2536 683 
+Q 2803 888 2803 1297 
+Q 2803 1734 2503 1912 
+Q 2203 2091 1719 2091 
+L 1119 2091 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-ac" d="M 1028 0 
+L 516 0 
+L 522 3044 
+L 900 3044 
+L 997 2744 
+Q 1347 3125 1928 3125 
+Q 2256 3125 2486 3003 
+Q 2716 2881 2850 2669 
+Q 3044 2863 3314 2994 
+Q 3584 3125 3938 3125 
+Q 4316 3125 4564 2965 
+Q 4813 2806 4936 2531 
+Q 5059 2256 5059 1906 
+L 5059 0 
+L 4547 0 
+L 4547 1763 
+Q 4544 1991 4483 2189 
+Q 4422 2388 4275 2511 
+Q 4128 2634 3872 2634 
+Q 3613 2634 3391 2543 
+Q 3169 2453 3006 2300 
+Q 3050 2116 3050 1906 
+L 3050 0 
+L 2538 0 
+L 2538 1763 
+Q 2534 1991 2473 2189 
+Q 2413 2388 2266 2511 
+Q 2119 2634 1863 2634 
+Q 1616 2634 1405 2542 
+Q 1194 2450 1034 2297 
+L 1028 0 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Selawik-Regular-50"/>
+    <use xlink:href="#Selawik-Regular-b3" transform="translate(53.125 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(111.71875 0)"/>
+    <use xlink:href="#Selawik-Regular-c0" transform="translate(168.3125 0)"/>
+    <use xlink:href="#Selawik-Regular-7f" transform="translate(203.078125 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(249.265625 0)"/>
+    <use xlink:href="#Selawik-Regular-fd" transform="translate(301.5625 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(323.25 0)"/>
+    <use xlink:href="#Selawik-Regular-39" transform="translate(350.640625 0)"/>
+    <use xlink:href="#Selawik-Regular-24" transform="translate(425.453125 0)"/>
+    <use xlink:href="#Selawik-Regular-55" transform="translate(496.453125 0)"/>
+    <use xlink:href="#Selawik-Regular-50" transform="translate(548.84375 0)"/>
+    <use xlink:href="#Selawik-Regular-1" transform="translate(601.96875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(666.46875 0)"/>
+    <use xlink:href="#Selawik-Regular-1f" transform="translate(693.859375 0)"/>
+    <use xlink:href="#Selawik-Regular-1" transform="translate(742.6875 0)"/>
+    <use xlink:href="#Selawik-Regular-4c" transform="translate(807.1875 0)"/>
+    <use xlink:href="#Selawik-Regular-50" transform="translate(867 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(920.125 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(947.515625 0)"/>
+    <use xlink:href="#Selawik-Regular-e8" transform="translate(1001.421875 0)"/>
+    <use xlink:href="#Selawik-Regular-e9" transform="translate(1055.328125 0)"/>
+    <use xlink:href="#Selawik-Regular-ed" transform="translate(1109.234375 0)"/>
+    <use xlink:href="#Selawik-Regular-113" transform="translate(1163.140625 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(1203.125 0)"/>
+    <use xlink:href="#Selawik-Regular-e8" transform="translate(1257.03125 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(1310.9375 0)"/>
+    <use xlink:href="#Selawik-Regular-ec" transform="translate(1364.84375 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1418.75 0)"/>
+    <use xlink:href="#Selawik-Regular-10f" transform="translate(1446.140625 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(1476.3125 0)"/>
+    <use xlink:href="#Selawik-Regular-e8" transform="translate(1530.21875 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(1584.125 0)"/>
+    <use xlink:href="#Selawik-Regular-ec" transform="translate(1638.03125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1691.9375 0)"/>
+    <use xlink:href="#Selawik-Regular-12a" transform="translate(1719.328125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1787.734375 0)"/>
+    <use xlink:href="#Selawik-Regular-1" transform="translate(1815.125 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(1879.625 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(1936.21875 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(1992.8125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(2049.40625 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(2100.28125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(2124.5 0)"/>
+    <use xlink:href="#Selawik-Regular-4c" transform="translate(2151.890625 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(2211.703125 0)"/>
+    <use xlink:href="#Selawik-Regular-bd" transform="translate(2264 0)"/>
+    <use xlink:href="#Selawik-Regular-b3" transform="translate(2322.796875 0)"/>
+    <use xlink:href="#Selawik-Regular-c0" transform="translate(2381.390625 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(2416.15625 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(2450.046875 0)"/>
+    <use xlink:href="#Selawik-Regular-1f" transform="translate(2477.4375 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(2526.265625 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(2550.484375 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(2574.703125 0)"/>
+    <use xlink:href="#Selawik-Regular-110" transform="translate(2627 0)"/>
+    <use xlink:href="#Selawik-Regular-108" transform="translate(2657.171875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(2678.859375 0)"/>
+    <use xlink:href="#Selawik-Regular-5a" transform="translate(2706.25 0)"/>
+    <use xlink:href="#Selawik-Regular-103" transform="translate(2774.953125 0)"/>
+    <use xlink:href="#Selawik-Regular-50" transform="translate(2796.640625 0)"/>
+    <use xlink:href="#Selawik-Regular-103" transform="translate(2849.765625 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(2871.453125 0)"/>
+    <use xlink:href="#Selawik-Regular-d" transform="translate(2898.84375 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(2960.765625 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(3013.0625 0)"/>
+    <use xlink:href="#Selawik-Regular-c4" transform="translate(3069.65625 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(3112.09375 0)"/>
+    <use xlink:href="#Selawik-Regular-c4" transform="translate(3168.6875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(3211.125 0)"/>
+    <use xlink:href="#Selawik-Regular-c" transform="translate(3238.515625 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(3295.84375 0)"/>
+    <use xlink:href="#Selawik-Regular-c0" transform="translate(3352.4375 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(3387.203125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(3439.5 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(3490.375 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(3546.96875 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(3574.359375 0)"/>
+    <use xlink:href="#Selawik-Regular-e8" transform="translate(3628.265625 0)"/>
+    <use xlink:href="#Selawik-Regular-ea" transform="translate(3682.171875 0)"/>
+    <use xlink:href="#Selawik-Regular-e8" transform="translate(3736.078125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(3789.984375 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(3817.375 0)"/>
+    <use xlink:href="#Selawik-Regular-c0" transform="translate(3873.96875 0)"/>
+    <use xlink:href="#Selawik-Regular-7e" transform="translate(3908.734375 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(3967.53125 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(4018.40625 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(4075 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(4102.390625 0)"/>
+    <use xlink:href="#Selawik-Regular-c0" transform="translate(4153.265625 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(4188.03125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(4240.328125 0)"/>
+    <use xlink:href="#Selawik-Regular-c4" transform="translate(4291.203125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(4333.640625 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(4361.03125 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(4411.90625 0)"/>
+    <use xlink:href="#Selawik-Regular-84" transform="translate(4468.5 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(4527.390625 0)"/>
+    <use xlink:href="#Selawik-Regular-bd" transform="translate(4554.78125 0)"/>
+    <use xlink:href="#Selawik-Regular-b3" transform="translate(4613.578125 0)"/>
+    <use xlink:href="#Selawik-Regular-bd" transform="translate(4672.171875 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(4730.96875 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(4787.5625 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(4811.78125 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(4862.65625 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(4896.546875 0)"/>
+    <use xlink:href="#Selawik-Regular-b3" transform="translate(4920.765625 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(4979.359375 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(5035.953125 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(5063.34375 0)"/>
+    <use xlink:href="#Selawik-Regular-c4" transform="translate(5115.640625 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(5158.078125 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(5191.96875 0)"/>
+    <use xlink:href="#Selawik-Regular-ac" transform="translate(5216.1875 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(5302.328125 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(5353.203125 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(5387.09375 0)"/>
+    <use xlink:href="#Selawik-Regular-c4" transform="translate(5439.390625 0)"/>
+    <use xlink:href="#Selawik-Regular-103" transform="translate(5481.828125 0)"/>
+   </g>
+  </g>
+  <g id="text_57">
+   <!-- Emmanuel Oti Nani, U.S. Rural Road Fatality County Panel (CC BY 4.0) -->
+   <g style="fill: #a19f9d" transform="translate(15.84 298.7712) scale(0.075 -0.075)">
+    <defs>
+     <path id="Selawik-Regular-3f" d="M 4522 2225 
+Q 4522 1566 4272 1045 
+Q 4022 525 3548 223 
+Q 3075 -78 2406 -78 
+Q 1747 -78 1272 223 
+Q 797 525 542 1045 
+Q 288 1566 288 2225 
+Q 288 2888 542 3414 
+Q 797 3941 1272 4247 
+Q 1747 4553 2406 4553 
+Q 3075 4553 3550 4247 
+Q 4025 3941 4276 3414 
+Q 4528 2888 4522 2225 
+z
+M 863 2225 
+Q 863 1681 1039 1276 
+Q 1216 872 1561 647 
+Q 1906 422 2406 422 
+Q 2906 422 3247 647 
+Q 3588 872 3764 1276 
+Q 3941 1681 3938 2225 
+Q 3938 2775 3763 3184 
+Q 3588 3594 3247 3822 
+Q 2906 4050 2406 4050 
+Q 1906 4050 1561 3822 
+Q 1216 3594 1039 3184 
+Q 863 2775 863 2225 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-fe" d="M 1050 713 
+Q 1050 328 915 -92 
+Q 781 -513 550 -825 
+L 122 -606 
+Q 259 -350 339 -148 
+Q 419 53 453 254 
+Q 488 456 488 713 
+L 1050 713 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-df" d="M 1653 -431 
+Q 1519 -775 1364 -973 
+Q 1209 -1172 1040 -1273 
+Q 872 -1375 697 -1422 
+Q 522 -1469 344 -1506 
+L 228 -1028 
+Q 625 -938 847 -736 
+Q 1069 -534 1216 -131 
+L 1272 16 
+L 47 3044 
+L 647 3044 
+L 1472 863 
+L 1534 619 
+L 1553 619 
+L 1616 856 
+L 2478 3044 
+L 3075 3050 
+L 1653 -431 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-49" d="M 1119 0 
+L 594 0 
+L 594 4481 
+L 1825 4481 
+Q 2522 4481 2926 4140 
+Q 3331 3800 3331 3144 
+Q 3331 2694 3122 2369 
+Q 2913 2044 2545 1869 
+Q 2178 1694 1703 1694 
+L 1119 1694 
+L 1119 0 
+z
+M 1116 4003 
+L 1116 2166 
+L 1666 2166 
+Q 2178 2166 2481 2402 
+Q 2784 2638 2784 3119 
+Q 2784 3591 2507 3798 
+Q 2231 4006 1734 4006 
+L 1116 4003 
+z
+" transform="scale(0.015625)"/>
+     <path id="Selawik-Regular-6a" d="M 2025 0 
+L 1500 0 
+L 1500 1644 
+L 59 4481 
+L 647 4481 
+L 1659 2441 
+Q 1669 2422 1708 2325 
+Q 1747 2228 1769 2166 
+L 1778 2166 
+Q 1794 2216 1828 2298 
+Q 1863 2381 1894 2441 
+L 2953 4481 
+L 3503 4481 
+L 2025 1656 
+L 2025 0 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Selawik-Regular-16"/>
+    <use xlink:href="#Selawik-Regular-ac" transform="translate(50.59375 0)"/>
+    <use xlink:href="#Selawik-Regular-ac" transform="translate(136.734375 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(222.875 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(273.75 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(330.34375 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(386.9375 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(439.234375 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(463.453125 0)"/>
+    <use xlink:href="#Selawik-Regular-3f" transform="translate(490.84375 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(566.234375 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(600.125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(624.34375 0)"/>
+    <use xlink:href="#Selawik-Regular-39" transform="translate(651.734375 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(726.546875 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(777.421875 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(834.015625 0)"/>
+    <use xlink:href="#Selawik-Regular-fe" transform="translate(858.234375 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(879.921875 0)"/>
+    <use xlink:href="#Selawik-Regular-5a" transform="translate(907.3125 0)"/>
+    <use xlink:href="#Selawik-Regular-103" transform="translate(976.015625 0)"/>
+    <use xlink:href="#Selawik-Regular-50" transform="translate(997.703125 0)"/>
+    <use xlink:href="#Selawik-Regular-103" transform="translate(1050.828125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1072.515625 0)"/>
+    <use xlink:href="#Selawik-Regular-4c" transform="translate(1099.90625 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(1159.71875 0)"/>
+    <use xlink:href="#Selawik-Regular-c0" transform="translate(1216.3125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(1251.078125 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(1301.953125 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1326.171875 0)"/>
+    <use xlink:href="#Selawik-Regular-4c" transform="translate(1353.5625 0)"/>
+    <use xlink:href="#Selawik-Regular-b3" transform="translate(1413.375 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(1471.96875 0)"/>
+    <use xlink:href="#Selawik-Regular-84" transform="translate(1522.84375 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1581.734375 0)"/>
+    <use xlink:href="#Selawik-Regular-1f" transform="translate(1609.125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(1657.953125 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(1708.828125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(1742.71875 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(1793.59375 0)"/>
+    <use xlink:href="#Selawik-Regular-98" transform="translate(1817.8125 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(1842.03125 0)"/>
+    <use xlink:href="#Selawik-Regular-df" transform="translate(1875.921875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(1924.3125 0)"/>
+    <use xlink:href="#Selawik-Regular-d" transform="translate(1951.703125 0)"/>
+    <use xlink:href="#Selawik-Regular-b3" transform="translate(2013.625 0)"/>
+    <use xlink:href="#Selawik-Regular-cf" transform="translate(2072.21875 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(2128.8125 0)"/>
+    <use xlink:href="#Selawik-Regular-ca" transform="translate(2185.40625 0)"/>
+    <use xlink:href="#Selawik-Regular-df" transform="translate(2219.296875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(2267.6875 0)"/>
+    <use xlink:href="#Selawik-Regular-49" transform="translate(2295.078125 0)"/>
+    <use xlink:href="#Selawik-Regular-73" transform="translate(2351.078125 0)"/>
+    <use xlink:href="#Selawik-Regular-ad" transform="translate(2401.953125 0)"/>
+    <use xlink:href="#Selawik-Regular-88" transform="translate(2458.546875 0)"/>
+    <use xlink:href="#Selawik-Regular-a6" transform="translate(2510.84375 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(2535.0625 0)"/>
+    <use xlink:href="#Selawik-Regular-10f" transform="translate(2562.453125 0)"/>
+    <use xlink:href="#Selawik-Regular-d" transform="translate(2592.625 0)"/>
+    <use xlink:href="#Selawik-Regular-d" transform="translate(2654.546875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(2716.46875 0)"/>
+    <use xlink:href="#Selawik-Regular-c" transform="translate(2743.859375 0)"/>
+    <use xlink:href="#Selawik-Regular-6a" transform="translate(2801.1875 0)"/>
+    <use xlink:href="#Selawik-Regular-11f" transform="translate(2856.46875 0)"/>
+    <use xlink:href="#Selawik-Regular-ec" transform="translate(2883.859375 0)"/>
+    <use xlink:href="#Selawik-Regular-103" transform="translate(2937.765625 0)"/>
+    <use xlink:href="#Selawik-Regular-e8" transform="translate(2959.453125 0)"/>
+    <use xlink:href="#Selawik-Regular-110" transform="translate(3013.359375 0)"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5635e9e2bf">
+   <rect x="39.6" y="96.768" width="153.818182" height="154.224"/>
+  </clipPath>
+  <clipPath id="p9c9a244d38">
+   <rect x="236.487273" y="96.768" width="153.818182" height="154.224"/>
+  </clipPath>
+  <clipPath id="pc7c9fb1f7b">
+   <rect x="433.374545" y="96.768" width="153.818182" height="154.224"/>
+  </clipPath>
+  <clipPath id="pf95de3db09">
+   <rect x="630.261818" y="96.768" width="153.818182" height="154.224"/>
+  </clipPath>
+ </defs>
+</svg>

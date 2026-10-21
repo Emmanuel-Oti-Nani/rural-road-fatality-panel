@@ -1,0 +1,17 @@
+{
+  "_comment": "Author block for this project. Every document, citation file, Zenodo record, manuscript author list, and commit reads from here, so the name appears identically everywhere. Email is kept for the commit identity and the preprint submission only; it is not printed in public documents.",
+  "authors": [
+    {
+      "name": "Emmanuel Oti Nani",
+      "family": "Nani",
+      "given": "Emmanuel Oti",
+      "orcid": "0009-0009-4175-8962",
+      "email": "otiemmanuelnani@gmail.com",
+      "github": "Emmanuel-Oti-Nani",
+      "affiliation": "Independent Researcher, Springfield, Missouri, USA",
+      "roles": ["Conceptualization", "Methodology", "Data curation", "Validation", "Writing - original draft", "Writing - review and editing"],
+      "corresponding": true
+    }
+  ],
+  "collaborators": []
+}

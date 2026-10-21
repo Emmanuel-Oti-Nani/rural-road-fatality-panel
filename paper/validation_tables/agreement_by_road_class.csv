@@ -1,0 +1,6 @@
+road_class,n,both_rural,census_rural_fars_urban,census_urban_fars_rural,both_urban,pct_agree,kappa,sensitivity_fars_rural,specificity_fars_rural,pct_rural_census,pct_rural_fars
+arterial,200574.0,69052.0,17442.0,5070.0,109010.0,88.78,0.767,79.83,95.56,43.12,36.95
+collector,72493.0,46153.0,6082.0,1395.0,18863.0,89.69,0.761,88.36,93.11,72.06,65.59
+interstate_fwy,67015.0,21207.0,6830.0,2286.0,36692.0,86.4,0.714,75.64,94.14,41.84,35.06
+local,45405.0,20948.0,3086.0,2436.0,18935.0,87.84,0.756,87.16,88.6,52.93,51.5
+road_unknown,653.0,324.0,65.0,21.0,243.0,86.83,0.734,83.29,92.05,59.57,52.83

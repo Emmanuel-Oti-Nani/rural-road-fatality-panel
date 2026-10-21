@@ -1,0 +1,9 @@
+pandas>=2.2  # built with 3.0.5
+numpy>=1.26
+geopandas>=1.0
+pyogrio>=0.9
+shapely>=2.0
+pyproj>=3.6
+scipy>=1.11
+matplotlib>=3.8
+openpyxl>=3.1
