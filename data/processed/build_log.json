@@ -1,0 +1,66 @@
+{
+  "fars_crashes_read": 358460,
+  "fars_fatals_by_year": {
+    "2015": 35484,
+    "2016": 37806,
+    "2017": 37473,
+    "2018": 36835,
+    "2019": 36355,
+    "2020": 39007,
+    "2021": 43230,
+    "2022": 42721,
+    "2023": 41025,
+    "2024": 39254
+  },
+  "crashes_without_valid_coords": 1523,
+  "crashes_point_outside_us": 11,
+  "county_rule_counts": {
+    "R1_fars_code": 358365,
+    "R2_recoded_successor": 49,
+    "R3_map_point": 29,
+    "R4_unassigned": 17
+  },
+  "deaths_person_file_by_year": {
+    "2015": 35484,
+    "2016": 37806,
+    "2017": 37473,
+    "2018": 36835,
+    "2019": 36355,
+    "2020": 39007,
+    "2021": 43230,
+    "2022": 42721,
+    "2023": 41025,
+    "2024": 39254
+  },
+  "deaths_without_crash_record": 0,
+  "crosswalk_rows": 358460,
+  "long_rows": 175987,
+  "deaths_unassigned_county": 17,
+  "ct_towns_unmatched": 0,
+  "population_rows": 31430,
+  "hpms_states_with_map_overlap_pass": [
+    "AZ",
+    "CA",
+    "NY",
+    "VA"
+  ],
+  "hpms_miles_total_all": 3951359.0949999997,
+  "hpms_state_quality": {
+    "complete": 40,
+    "local_roads_mismatch": 9,
+    "check": 2
+  },
+  "hpms_county_codes_not_in_2020_counties": [
+    "01999",
+    "16999",
+    "18999",
+    "19999",
+    "24999",
+    "31999",
+    "35999",
+    "54999"
+  ],
+  "hpms_miles_in_unmatched_codes": 67.24000000000001,
+  "panel_rows": 31430,
+  "panel_counties": 3143
+}

@@ -1,0 +1,11 @@
+{
+  "upload_type": "dataset",
+  "title": "U.S. Rural Road Fatality County Panel, 2015-2024",
+  "creators": [{"name": "Nani, Emmanuel Oti", "orcid": "0009-0009-4175-8962", "affiliation": "Independent Researcher, Springfield, Missouri, USA"}],
+  "description": "<p>Open county-by-year panel of U.S. fatal motor vehicle crashes and deaths, 2015-2024, built from NHTSA's Fatality Analysis Reporting System (FARS). Deaths are split by rural and urban location (2020 Census urban areas, held fixed across years, and the FARS RUR_URB label), road class, road owner, and person type (driver, passenger, pedestrian, cyclist). Includes Census population, 2020 rural population, 2024 FHWA HPMS public road miles by functional class and ownership, a crash-level crosswalk to 2020 Census places and county subdivisions with match flags, a codebook, join rules, a provenance log with SHA-256 fingerprints, a QA report, and validation tables comparing the FARS rural label with Census urban areas.</p><p>FARS 2015-2023 are Final Files; 2024 is the Annual Report File.</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": ["traffic safety", "rural roads", "FARS", "county panel", "road fatalities", "urban areas", "open data", "transportation"],
+  "related_identifiers": [{"identifier": "https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel", "relation": "isSupplementTo", "scheme": "url"}]
+}

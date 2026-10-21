@@ -1,0 +1,14 @@
+{
+  "upload_type": "dataset",
+  "title": "FARS Fatal Crash to 2020 Census Place and County Subdivision Crosswalk, 2015-2024",
+  "creators": [{"name": "Nani, Emmanuel Oti", "orcid": "0009-0009-4175-8962", "affiliation": "Independent Researcher, Springfield, Missouri, USA"}],
+  "description": "<p>One row per fatal crash in NHTSA's Fatality Analysis Reporting System (FARS), 2015-2024, linking each crash to its 2020 Census county, urban area, place (incorporated place or CDP), and county subdivision by its reported coordinates, with match flags (county rule used, map point agrees with coded county, place and county subdivision match status). Companion to the U.S. Rural Road Fatality County Panel. Join rules and codebook included.</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": ["FARS", "crosswalk", "Census places", "county subdivisions", "traffic fatalities", "geocoding"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "10.5281/zenodo.PANEL_DOI", "relation": "isPartOf", "scheme": "doi"}
+  ]
+}

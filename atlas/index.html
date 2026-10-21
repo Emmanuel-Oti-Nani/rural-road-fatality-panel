@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rural Road Safety Atlas</title>
+<meta name="description" content="County and place views of U.S. road deaths, 2015-2024, split by rural and urban location. Built from NHTSA FARS and the 2020 Census by Emmanuel Oti Nani.">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+:root{
+  --surface:#FFFFFF; --surface-2:#F3F2F1; --line:#E1DFDD; --ink:#252423; --ink-2:#605E5C; --muted:#A19F9D;
+  --accent:#118DFF; --rural:#118DFF; --urban:#E66C37; --draft:#b3261e; --nodata:#e8e7e3;
+  --s1:#DCEEFF; --s2:#B3DAFF; --s3:#7DBFFF; --s4:#3FA0FF; --s5:#118DFF; --s6:#0B5FC4; --s7:#12239E;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --surface:#1a1a19; --surface-2:#242422; --line:#3a3936; --ink:#f0efec; --ink-2:#c3c2b7; --muted:#8f8e86;
+    --accent:#3FA0FF; --rural:#3FA0FF; --urban:#E66C37; --draft:#f2b8b5; --nodata:#2e2d2b;
+  }
+}
+:root[data-theme="dark"]{
+  --surface:#1a1a19; --surface-2:#242422; --line:#3a3936; --ink:#f0efec; --ink-2:#c3c2b7; --muted:#8f8e86;
+  --accent:#3FA0FF; --rural:#3FA0FF; --urban:#E66C37; --draft:#f2b8b5; --nodata:#2e2d2b;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:var(--surface);color:var(--ink);
+  font:15px/1.45 "Segoe UI","Segoe UI Web (West European)",Selawik,system-ui,-apple-system,Roboto,sans-serif}
+.draft{background:var(--draft);color:var(--surface);text-align:center;font-size:13px;padding:6px 16px;font-weight:600}
+header{padding:14px 16px 10px;border-bottom:1px solid var(--line)}
+header h1{margin:0;font-size:20px;letter-spacing:-.01em}
+header p{margin:4px 0 0;color:var(--ink-2);font-size:13.5px;max-width:70ch}
+.controls{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line)}
+.controls label{font-size:13px;color:var(--ink-2);display:flex;gap:6px;align-items:center;max-width:100%;min-width:0}
+select{max-width:100%}
+select,button{font:inherit;font-size:13.5px;color:var(--ink);background:var(--surface-2);border:1px solid var(--line);border-radius:6px;padding:5px 8px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.seg button{border:0;border-radius:0;background:transparent;padding:5px 10px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
+main{display:grid;grid-template-columns:1fr 340px;height:calc(100% - 150px);min-height:480px}
+#map{height:100%;background:var(--surface-2)}
+aside{border-left:1px solid var(--line);overflow:auto;padding:14px 16px}
+aside h2{font-size:16px;margin:0 0 2px}
+aside .sub{color:var(--ink-2);font-size:13px;margin:0 0 12px}
+.kpis{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:10px 0 14px}
+.kpi{background:var(--surface-2);border-radius:8px;padding:8px 10px}
+.kpi b{display:block;font-size:20px;font-variant-numeric:tabular-nums}
+.kpi span{font-size:12px;color:var(--ink-2)}
+table{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+td,th{padding:4px 2px;border-bottom:1px solid var(--line);text-align:right}
+td:first-child,th:first-child{text-align:left}
+th{color:var(--ink-2);font-weight:500}
+.legend{background:var(--surface);color:var(--ink);padding:8px 10px;border-radius:8px;border:1px solid var(--line);font-size:12px;line-height:1.3}
+.legend i{display:inline-block;width:14px;height:12px;margin-right:6px;vertical-align:-2px;border-radius:2px}
+.key{display:flex;gap:12px;font-size:12px;color:var(--ink-2);margin:4px 0}
+.key i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:4px;vertical-align:-1px}
+.note{font-size:12px;color:var(--muted);margin-top:12px}
+a{color:var(--accent)}
+footer{font-size:12px;color:var(--ink-2);padding:10px 16px;border-top:1px solid var(--line)}
+svg text{fill:var(--ink-2);font-size:10px}
+.leaflet-container{font:inherit}
+.leaflet-tooltip{background:var(--surface);color:var(--ink);border:1px solid var(--line);font-size:12.5px}
+@media (max-width:820px){
+  main{grid-template-columns:1fr;height:auto}
+  #map{height:62vh}
+  aside{border-left:0;border-top:1px solid var(--line)}
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Rural Road Safety Atlas</h1>
+  <p>Road deaths in every U.S. county, 2015 to 2024, with rural and urban split by the 2020 Census urban-area map. Click a county for its decade of numbers. Built from NHTSA's Fatality Analysis Reporting System (FARS).</p>
+</header>
+<div class="controls">
+  <div class="seg" role="group" aria-label="View">
+    <button id="vCounty" aria-pressed="true">Counties</button>
+    <button id="vPlace" aria-pressed="false">Towns and cities</button>
+  </div>
+  <label>Map shows
+    <select id="measure">
+      <option value="rate">Deaths per 100,000 residents (2020-2024)</option>
+      <option value="rs">Rural share of deaths, Census map (2015-2024)</option>
+      <option value="gap">Rural share: Census map minus FARS label (points)</option>
+      <option value="dpm">Deaths per 100 road miles per year (2020-2024)</option>
+      <option value="pr">Share of residents who live in rural areas (2020)</option>
+    </select>
+  </label>
+  <label>Find a county <input id="q" list="names" placeholder="e.g. Greene County, MO" style="font:inherit;font-size:13.5px;padding:5px 8px;border:1px solid var(--line);border-radius:6px;background:var(--surface-2);color:var(--ink);width:210px"></label>
+  <datalist id="names"></datalist>
+</div>
+<main>
+  <div id="map" role="region" aria-label="Map of U.S. counties"></div>
+  <aside id="panel" aria-live="polite">
+    <h2>Pick a county</h2>
+    <p class="sub">Click any county on the map, or search above.</p>
+    <p>Downloads:</p>
+    <ul>
+      <li><a href="data/panel_county_year_2015_2024.csv" download>County-by-year panel (CSV)</a></li>
+      <li><a href="figures/fig1_rural_urban_deaths.png" download>Figure 1: rural and urban deaths</a></li>
+      <li><a href="figures/fig2_rural_share_two_definitions.png" download>Figure 2: rural share, two definitions</a></li>
+      <li><a href="figures/fig3_county_death_rate_map.png" download>Figure 3: county death rate map</a></li>
+      <li><a href="figures/fig4_rural_deaths_by_person_type.png" download>Figure 4: rural deaths by person type</a></li>
+    </ul>
+    <p class="note">Rural here means the crash location is outside a 2020 Census urban area. FARS's own rural/urban label is shown for comparison. Road miles come from FHWA's 2024 HPMS map; in some states local roads are incomplete (flagged per county).</p>
+  </aside>
+</main>
+<footer>
+  Emmanuel Oti Nani, Independent Researcher, Springfield, Missouri (ORCID <a href="https://orcid.org/0009-0009-4175-8962">0009-0009-4175-8962</a>).
+  Data: NHTSA FARS 2015-2024 (2024 is the Annual Report File); U.S. Census Bureau; FHWA HPMS 2024. Dataset DOI: pending (assigned at the first Zenodo release).
+  <a href="https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel">Code and methods</a>. License CC BY 4.0.
+</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const SEQ = ['--s1','--s2','--s3','--s4','--s5','--s6','--s7'];
+const M = {
+  rate:{breaks:[5,10,15,20,30,40], fmt:v=>v.toFixed(1), unit:'per 100,000', title:'Deaths per 100,000 residents per year'},
+  rs:{breaks:[20,40,60,80,90,95], fmt:v=>v.toFixed(0)+'%', unit:'%', title:'Rural share of deaths (Census map)'},
+  gap:{breaks:[0,5,10,20,30,50], fmt:v=>(v>0?'+':'')+v.toFixed(0), unit:'points', title:'Census rural share minus FARS rural share'},
+  dpm:{breaks:[0.5,1,2,4,8,16], fmt:v=>v.toFixed(2), unit:'per 100 mi', title:'Deaths per 100 road miles per year'},
+  pr:{breaks:[10,25,50,75,90,99], fmt:v=>v.toFixed(0)+'%', unit:'%', title:'Residents living in rural areas, 2020'}
+};
+let measure='rate', counties, layer, placeLayer, legend, byFips={}, years=[];
+const map = L.map('map',{zoomSnap:0.25, minZoom:3}).setView([38.5,-96],4.25);
+map.attributionControl.addAttribution('Boundaries: U.S. Census Bureau TIGER/Line 2020');
+let hi;
+
+function val(p){
+  if(measure==='gap') return (p.rs==null||p.rsf==null)?null:p.rs-p.rsf;
+  if(measure==='dpm') return (p.mq==='complete')?p.dpm:null;
+  return p[measure];
+}
+function color(v){
+  if(v==null||isNaN(v)) return css('--nodata');
+  const b=M[measure].breaks; let i=0; while(i<b.length&&v>=b[i]) i++; return css(SEQ[i]);
+}
+function style(f){ return {fillColor:color(val(f.properties)), fillOpacity:0.92, color:css('--surface'), weight:0.4}; }
+function drawLegend(){
+  if(legend) legend.remove();
+  legend=L.control({position:'bottomleft'});
+  legend.onAdd=()=>{const d=L.DomUtil.create('div','legend'); const m=M[measure], b=m.breaks;
+    let h=`<b>${m.title}</b><br>`;
+    for(let i=0;i<=b.length;i++){ const lo=i?m.fmt(b[i-1]):'', hi=i<b.length?m.fmt(b[i]):'';
+      h+=`<i style="background:${css(SEQ[i])}"></i>${i===0?'below '+hi:(i===b.length?lo+' and up':lo+' to '+hi)}<br>`; }
+    h+=`<i style="background:${css('--nodata')}"></i>${measure==='dpm'?'Road miles incomplete or none':'No data'}`;
+    d.innerHTML=h; return d;};
+  legend.addTo(map);
+}
+function bars(p){
+  const W=300,H=110,pad=18, n=p.d.length, max=Math.max(1,...p.d), bw=(W-pad)/n-3;
+  let s=`<svg viewBox="0 0 ${W} ${H+16}" width="100%" role="img" aria-label="Deaths by year, rural and urban">`;
+  p.d.forEach((t,i)=>{ const r=p.r[i], u=t-r, x=pad+i*((W-pad)/n);
+    const hr=r/max*H, hu=u/max*H;
+    s+=`<rect x="${x}" y="${H-hr}" width="${bw}" height="${hr}" fill="${css('--rural')}" rx="2"><title>${years[i]}: ${r} rural</title></rect>`;
+    s+=`<rect x="${x}" y="${H-hr-hu-(hu>0&&hr>0?2:0)}" width="${bw}" height="${hu}" fill="${css('--urban')}" rx="2"><title>${years[i]}: ${u} urban or unknown</title></rect>`;
+    if(i%3===0||i===n-1) s+=`<text x="${x+bw/2}" y="${H+13}" text-anchor="middle">${years[i]}</text>`;
+  });
+  s+=`<text x="0" y="10">${max}</text></svg>`; return s;
+}
+function show(p){
+  const tot=p.d.reduce((a,b)=>a+b,0), r=p.r.reduce((a,b)=>a+b,0), fr=p.fr.reduce((a,b)=>a+b,0);
+  document.getElementById('panel').innerHTML=`
+    <h2>${p.n}</h2><p class="sub">FIPS ${p.f} · population ${p.pop.toLocaleString()} (2024) · ${p.pr==null?'':p.pr.toFixed(0)+'% rural residents (2020)'}</p>
+    <div class="kpis">
+      <div class="kpi"><b>${tot.toLocaleString()}</b><span>road deaths, 2015-2024</span></div>
+      <div class="kpi"><b>${p.rate}</b><span>deaths per 100,000 per year, 2020-2024</span></div>
+      <div class="kpi"><b>${p.rs==null?'-':p.rs+'%'}</b><span>rural share (Census map)</span></div>
+      <div class="kpi"><b>${p.rsf==null?'-':p.rsf+'%'}</b><span>rural share (FARS label)</span></div>
+    </div>
+    <div class="key"><span><i style="background:${css('--rural')}"></i>Rural</span><span><i style="background:${css('--urban')}"></i>Urban or unknown location</span></div>
+    ${bars(p)}
+    <table><tr><th>Who died, 2015-2024</th><th>Deaths</th></tr>
+      <tr><td>Drivers</td><td>${p.drv}</td></tr><tr><td>Passengers</td><td>${p.pas}</td></tr>
+      <tr><td>Pedestrians</td><td>${p.ped}</td></tr><tr><td>Cyclists</td><td>${p.cyc}</td></tr></table>
+    <table style="margin-top:10px"><tr><th>Year</th><th>All</th><th>Rural (Census)</th><th>Rural (FARS)</th></tr>
+      ${years.map((y,i)=>`<tr><td>${y}</td><td>${p.d[i]}</td><td>${p.r[i]}</td><td>${p.fr[i]}</td></tr>`).join('')}</table>
+    <p class="note">Public road miles (FHWA HPMS 2024): ${p.mi.toLocaleString()}${p.mq&&p.mq!=='complete'?' - this state\'s map mileage does not match FHWA\'s official total (local roads), so use with care':''}.
+    Small counties have few deaths per year, so single-year changes are often chance.</p>
+    <p class="note"><a href="data/panel_county_year_2015_2024.csv" download>Download all counties (CSV)</a></p>`;
+}
+function pick(f){
+  show(f.properties);
+  if(hi) hi.remove();
+  hi=L.geoJSON(f,{style:{fill:false,color:css('--ink'),weight:2.5},interactive:false}).addTo(map);
+}
+function setView(v){
+  document.getElementById('vCounty').setAttribute('aria-pressed', v==='c');
+  document.getElementById('vPlace').setAttribute('aria-pressed', v==='p');
+  if(v==='p'){ layer.setStyle(f=>({...style(f), fillOpacity:0.15})); if(!placeLayer) loadPlaces(); else placeLayer.addTo(map); }
+  else { layer.setStyle(style); if(placeLayer) placeLayer.remove(); }
+}
+function loadPlaces(){
+  fetch('data/places.json').then(r=>r.json()).then(pts=>{
+    placeLayer=L.layerGroup(pts.filter(p=>p.d>0).map(p=>L.circleMarker([p.lat,p.lon],{
+      radius:Math.max(2,Math.sqrt(p.d)*0.9), color:css('--surface'), weight:1, fillColor:css('--urban'), fillOpacity:0.75})
+      .bindTooltip(`<b>${p.n}</b>${p.c?' (census-designated place)':''}<br>${p.d} deaths in 2015-2024, ${p.d5} in 2020-2024`)));
+    placeLayer.addTo(map);
+  });
+}
+fetch('data/counties.geojson').then(r=>r.json()).then(gj=>{
+  years=gj.years; counties=gj;
+  const dl=document.getElementById('names');
+  gj.features.forEach(f=>{byFips[f.properties.f]=f; const o=document.createElement('option'); o.value=f.properties.n; dl.appendChild(o);});
+  layer=L.geoJSON(gj,{style, onEachFeature:(f,l)=>{
+    l.on('click',()=>pick(f));
+    l.bindTooltip(()=>{const v=val(f.properties); return `<b>${f.properties.n}</b><br>${v==null?'No data':M[measure].fmt(v)+' '+(M[measure].unit==='%'?'':M[measure].unit)}`;},{sticky:true});
+  }}).addTo(map);
+  drawLegend();
+});
+document.getElementById('measure').onchange=e=>{measure=e.target.value; layer.setStyle(style); drawLegend();};
+document.getElementById('vCounty').onclick=()=>setView('c');
+document.getElementById('vPlace').onclick=()=>setView('p');
+document.getElementById('q').onchange=e=>{
+  const f=counties.features.find(f=>f.properties.n.toLowerCase()===e.target.value.toLowerCase());
+  if(f){ pick(f); map.fitBounds(L.geoJSON(f).getBounds(),{maxZoom:7}); }
+};
+</script>
+</body>
+</html>
