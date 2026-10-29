@@ -27,8 +27,8 @@ rural roads; traffic fatalities; FARS; urban areas; measurement validity; road s
 ```
 
 **Subjects** (pick these from EarthArXiv's list)
-- Physical Sciences and Mathematics > Social and Behavioral Sciences > Geography > Geographic Information Sciences
-- Geography > Spatial Science
+- Social and Behavioral Sciences > Geography > Geographic Information Sciences
+- Social and Behavioral Sciences > Geography > Spatial Science
 - Engineering > Civil and Environmental Engineering > Transportation Engineering
 
 **Author:** Emmanuel Oti Nani; email otiemmanuelnani@gmail.com; affiliation "Independent Researcher, Springfield, Missouri, USA". Check this before going to the next step; only moderators can change it later.
