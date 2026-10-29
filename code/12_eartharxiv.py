@@ -147,7 +147,7 @@ before(title, bold=True, size=16, align=C, after=12)
 before("Emmanuel Oti Nani", bold=True, size=12, align=C, after=2)
 before("Independent Researcher, Springfield, Missouri, USA", size=12, align=C, after=2)
 before("ORCID: " + ORCID, size=12, align=C, after=2)
-before("Correspondence: otiemmanuelnani@gmail.com", size=12, align=C, after=18)
+before("Correspondence: en289s@missouristate.edu", size=12, align=C, after=18)
 before("This manuscript is a preprint and has not been peer reviewed. It has not yet been submitted to a journal. "
        "Subsequent versions of this manuscript may have slightly different content. If accepted for publication, "
        "the final version will be available via the 'Peer-reviewed Publication DOI' link on the right-hand side of "
@@ -158,7 +158,7 @@ pb.add_run().add_break(docx.enum.text.WD_BREAK.PAGE)
 # Title page of the manuscript itself
 before(title, bold=True, size=15, align=C, after=10)
 before("Emmanuel Oti Nani", bold=True, size=12, align=C, after=2)
-before("Independent Researcher, Springfield, Missouri, USA  |  " + ORCID + "  |  otiemmanuelnani@gmail.com",
+before("Independent Researcher, Springfield, Missouri, USA  |  " + ORCID + "  |  en289s@missouristate.edu",
        size=11, align=C, after=14)
 h = before("Abstract", style={x.name: x for x in d.styles}["Heading 1"])
 abs_plain = subprocess.run(["pandoc", "-f", "latex", "-t", "plain", "--wrap=none"], input=abstract, capture_output=True,
@@ -281,7 +281,7 @@ pdf_tex = r"""\documentclass[12pt]{article}
 {\bfseries Emmanuel Oti Nani}\,\orcidlink{0009-0009-4175-8962}\par
 Independent Researcher, Springfield, Missouri, USA\par
 ORCID: \url{""" + ORCID + r"""}\par
-Correspondence: \href{mailto:otiemmanuelnani@gmail.com}{otiemmanuelnani@gmail.com}\par\vspace{1.2cm}
+Correspondence: \href{mailto:en289s@missouristate.edu}{en289s@missouristate.edu}\par\vspace{1.2cm}
 \begin{minipage}{0.85\textwidth}\centering
 This manuscript is a preprint and has not been peer reviewed. It has not yet been submitted to a journal.
 Subsequent versions of this manuscript may have slightly different content. If accepted for publication, the
@@ -291,7 +291,7 @@ Data and code: \url{https://doi.org/10.5281/zenodo.23547650}\par
 \end{titlepage}\setcounter{page}{2}
 \linenumbers\onehalfspacing
 \begin{center}{\large\bfseries """ + title.replace("–", "--") + r"""\par}\vspace{0.3cm}
-{\bfseries Emmanuel Oti Nani}\par{\small Independent Researcher, Springfield, Missouri, USA $\mid$ \url{""" + ORCID + r"""} $\mid$ otiemmanuelnani@gmail.com\par}\end{center}
+{\bfseries Emmanuel Oti Nani}\par{\small Independent Researcher, Springfield, Missouri, USA $\mid$ \url{""" + ORCID + r"""} $\mid$ en289s@missouristate.edu\par}\end{center}
 \section*{Abstract}
 """ + abstract + r"""\par\medskip
 \noindent\textbf{Keywords:} """ + kw_tex + "\n" + body.replace("\\begin{table}[t]", "\\begin{table}[htbp]\\centering\\small").replace("\\begin{figure}[t]", "\\begin{figure}[htbp]\\centering").replace("width=\\columnwidth", "width=0.8\\textwidth") + "\n\\section*{References}\n{\\small " + refs + "}\n\\end{document}\n"

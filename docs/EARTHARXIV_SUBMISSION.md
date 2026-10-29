@@ -7,7 +7,7 @@
 ## Before you start (5 min)
 
 - [ ] Your ORCID record (https://orcid.org/0009-0009-4175-8962) shows your **education** and a **current or recent employment/affiliation**. EarthArXiv requires both and checks them.
-- [ ] The email on your ORCID record is the **same email** you use to log in to EarthArXiv (the cover sheet lists otiemmanuelnani@gmail.com).
+- [ ] The email on your ORCID record is the **same email** you use to log in to EarthArXiv (the cover sheet lists en289s@missouristate.edu).
 
 ## Form fields
 
@@ -31,7 +31,7 @@ rural roads; traffic fatalities; FARS; urban areas; measurement validity; road s
 - Social and Behavioral Sciences > Geography > Spatial Science
 - Engineering > Civil and Environmental Engineering > Transportation Engineering
 
-**Author:** Emmanuel Oti Nani; email otiemmanuelnani@gmail.com; affiliation "Independent Researcher, Springfield, Missouri, USA". Check this before going to the next step; only moderators can change it later.
+**Author:** Emmanuel Oti Nani; email en289s@missouristate.edu; affiliation "Independent Researcher, Springfield, Missouri, USA". Check this before going to the next step; only moderators can change it later.
 
 **License:** CC BY 4.0
 

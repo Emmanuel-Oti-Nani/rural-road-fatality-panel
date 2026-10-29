@@ -88,7 +88,7 @@ The crosswalk gets its own record so others can cite it on its own.
 3. Tick each item of the Submission Preparation Checklist. Read the AI policy and confirm.
 4. Do Parts 1 and 2 first, so the dataset DOI exists. Ask Claude to rebuild the preprint with the DOI (`python code/10_preprint_tex.py --doi 10.5281/zenodo.NNNNNNN`). Upload `paper/preprint/main.pdf`.
 5. Title: copy from the manuscript. Abstract: copy your rewritten abstract.
-6. Authors: Emmanuel Oti Nani, ORCID 0009-0009-4175-8962, Independent Researcher, Springfield, Missouri, USA, otiemmanuelnani@gmail.com.
+6. Authors: Emmanuel Oti Nani, ORCID 0009-0009-4175-8962, Independent Researcher, Springfield, Missouri, USA, en289s@missouristate.edu.
 7. Keywords: rural; traffic fatalities; FARS; urban areas; measurement validity; road safety; open data.
 8. Add the data DOI from Part 2 where the form asks for supplementary material or data links.
 9. Submit. Posting is permanent and cannot be withdrawn, so check the PDF one last time.
