@@ -31,7 +31,7 @@ All sources are free and public. Nothing here needs special permission.
 - [x] **Codebook and provenance log**: what every column means and exactly where every file came from
 - [ ] **Crosswalk** linking every fatal crash to its 2020 Census town or city and county subdivision, with its own DOI
 - [x] **Rural Road Safety Atlas**: a public web map with county views and downloadable figures: https://emmanuel-oti-nani.github.io/rural-road-fatality-panel/
-- [ ] **Validation study** (a short paper for a **preprint** server): how often FARS's own "rural" label agrees with the Census map
+- [x] **Validation study** (a short paper for a **preprint** server): how often FARS's own "rural" label agrees with the Census map: https://doi.org/10.31223/X5RV4C
 
 ## How it connects to your work
 

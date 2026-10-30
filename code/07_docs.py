@@ -157,9 +157,9 @@ def main():
 
     readme = f"""# U.S. Rural Road Fatality County Panel and Atlas
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23547650.svg)](https://doi.org/10.5281/zenodo.23547650)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23547650.svg)](https://doi.org/10.5281/zenodo.23547650) [![Preprint](https://img.shields.io/badge/EarthArXiv-10.31223%2FX5RV4C-blue)](https://doi.org/10.31223/X5RV4C)
 
-**Status:** {status} | **Maintainer:** {A['name']}, ORCID [{A['orcid']}](https://orcid.org/{A['orcid']}) | **License:** code MIT, data CC BY 4.0 | **DOI:** [10.5281/zenodo.23547650](https://doi.org/10.5281/zenodo.23547650) (all versions: [10.5281/zenodo.23547649](https://doi.org/10.5281/zenodo.23547649))
+**Status:** {status} | **Maintainer:** {A['name']}, ORCID [{A['orcid']}](https://orcid.org/{A['orcid']}) | **License:** code MIT, data CC BY 4.0 | **DOI:** [10.5281/zenodo.23547650](https://doi.org/10.5281/zenodo.23547650) (all versions: [10.5281/zenodo.23547649](https://doi.org/10.5281/zenodo.23547649)) | **Preprint:** [10.31223/X5RV4C](https://doi.org/10.31223/X5RV4C)
 
 **In plain terms:** This is a free table of road deaths for every U.S. county, every year from 2015 to 2024. It splits deaths into rural and urban, by type of road and road owner, and by who died (driver, passenger, person walking, person on a bicycle). It adds population and public road miles. Small counties can use it as ready-made evidence for safety planning and grant applications, and researchers can use it to compare counties over a full decade.
 
@@ -234,6 +234,8 @@ See [docs/LIMITATIONS.md](docs/LIMITATIONS.md) before using or citing anything h
 
 {A['name']} ({'2026'}). *U.S. Rural Road Fatality County Panel, 2015-2024* (Version {VERSION}) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23547650. See `CITATION.cff`.
 
+Validation study: {A['name']} (2026). *How Rural Is Rural? Agreement Between the FARS Rural/Urban Label and 2020 Census Urban Areas for U.S. Traffic Deaths, 2015–2024* [Preprint]. EarthArXiv. https://doi.org/10.31223/X5RV4C
+
 ## Use of AI tools
 
 Claude (Anthropic) assisted with writing code, assembling data, and drafting documentation. {A['name']} designed the join rules, reviewed every flagged county, verified the published figures against the FARS source files, and is responsible for the content.
@@ -254,7 +256,7 @@ Claude (Anthropic) assisted with writing code, assembling data, and drafting doc
 
 **Who can use it.** County engineers and planners, state highway safety offices, regional planning commissions, grant writers for federal Safe Streets and Roads for All funding, and researchers.
 
-**Where it is.** GitHub: {REPO}. Zenodo DOI: https://doi.org/10.5281/zenodo.23547650. Atlas: {PAGES}.
+**Where it is.** GitHub: {REPO}. Zenodo DOI: https://doi.org/10.5281/zenodo.23547650. Validation preprint: https://doi.org/10.31223/X5RV4C. Atlas: {PAGES}.
 
 ## Two-sentence version
 

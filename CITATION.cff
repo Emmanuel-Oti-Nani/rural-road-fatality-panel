@@ -18,6 +18,19 @@ identifiers:
     description: "Concept DOI: all versions, resolves to the latest"
 repository-code: "https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel"
 url: "https://emmanuel-oti-nani.github.io/rural-road-fatality-panel/"
+references:
+  - type: article
+    title: "How Rural Is Rural? Agreement Between the FARS Rural/Urban Label and 2020 Census Urban Areas for U.S. Traffic Deaths, 2015-2024"
+    authors:
+      - family-names: "Nani"
+        given-names: "Emmanuel Oti"
+        orcid: "https://orcid.org/0009-0009-4175-8962"
+    year: 2026
+    publisher:
+      name: "EarthArXiv"
+    status: preprint
+    doi: "10.31223/X5RV4C"
+    url: "https://doi.org/10.31223/X5RV4C"
 keywords:
   - traffic safety
   - rural roads

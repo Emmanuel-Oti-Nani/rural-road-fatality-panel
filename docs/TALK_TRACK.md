@@ -12,7 +12,7 @@
 
 **Who can use it.** County engineers and planners, state highway safety offices, regional planning commissions, grant writers for federal Safe Streets and Roads for All funding, and researchers.
 
-**Where it is.** GitHub: https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel. Zenodo DOI: https://doi.org/10.5281/zenodo.23547650. Atlas: https://emmanuel-oti-nani.github.io/rural-road-fatality-panel/.
+**Where it is.** GitHub: https://github.com/Emmanuel-Oti-Nani/rural-road-fatality-panel. Zenodo DOI: https://doi.org/10.5281/zenodo.23547650. Validation preprint: https://doi.org/10.31223/X5RV4C. Atlas: https://emmanuel-oti-nani.github.io/rural-road-fatality-panel/.
 
 ## Two-sentence version
 

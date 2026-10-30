@@ -1,8 +1,8 @@
 # U.S. Rural Road Fatality County Panel and Atlas
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23547650.svg)](https://doi.org/10.5281/zenodo.23547650)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23547650.svg)](https://doi.org/10.5281/zenodo.23547650) [![Preprint](https://img.shields.io/badge/EarthArXiv-10.31223%2FX5RV4C-blue)](https://doi.org/10.31223/X5RV4C)
 
-**Status:** Released v1.0.0 (2026-10-21) | **Maintainer:** Emmanuel Oti Nani, ORCID [0009-0009-4175-8962](https://orcid.org/0009-0009-4175-8962) | **License:** code MIT, data CC BY 4.0 | **DOI:** [10.5281/zenodo.23547650](https://doi.org/10.5281/zenodo.23547650) (all versions: [10.5281/zenodo.23547649](https://doi.org/10.5281/zenodo.23547649))
+**Status:** Released v1.0.0 (2026-10-21) | **Maintainer:** Emmanuel Oti Nani, ORCID [0009-0009-4175-8962](https://orcid.org/0009-0009-4175-8962) | **License:** code MIT, data CC BY 4.0 | **DOI:** [10.5281/zenodo.23547650](https://doi.org/10.5281/zenodo.23547650) (all versions: [10.5281/zenodo.23547649](https://doi.org/10.5281/zenodo.23547649)) | **Preprint:** [10.31223/X5RV4C](https://doi.org/10.31223/X5RV4C)
 
 **In plain terms:** This is a free table of road deaths for every U.S. county, every year from 2015 to 2024. It splits deaths into rural and urban, by type of road and road owner, and by who died (driver, passenger, person walking, person on a bicycle). It adds population and public road miles. Small counties can use it as ready-made evidence for safety planning and grant applications, and researchers can use it to compare counties over a full decade.
 
@@ -76,6 +76,8 @@ See [docs/LIMITATIONS.md](docs/LIMITATIONS.md) before using or citing anything h
 ## Citation
 
 Emmanuel Oti Nani (2026). *U.S. Rural Road Fatality County Panel, 2015-2024* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23547650. See `CITATION.cff`.
+
+Validation study: Emmanuel Oti Nani (2026). *How Rural Is Rural? Agreement Between the FARS Rural/Urban Label and 2020 Census Urban Areas for U.S. Traffic Deaths, 2015–2024* [Preprint]. EarthArXiv. https://doi.org/10.31223/X5RV4C
 
 ## Use of AI tools
 
